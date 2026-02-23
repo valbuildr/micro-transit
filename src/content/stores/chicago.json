@@ -1,0 +1,737 @@
+{
+    "name": "Chicago",
+    "url": "https://www.microcenter.com/site/stores/Chicago.aspx",
+    "latLon": [
+        41.93037787586436,
+        -87.68283941711702
+    ],
+    "address": "2645 N Elston Ave, Chicago, IL 60647",
+    "stops": {
+        "local": [
+            {
+                "name": "Diversey & Rockwell",
+                "latLon": [
+                    41.932203866911976,
+                    -87.69309297639865
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Rockwell",
+                "latLon": [
+                    41.93204877975251,
+                    -87.69290535507383
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Campbell",
+                "latLon": [
+                    41.9320779832122,
+                    -87.6904072599475
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Campbell",
+                "latLon": [
+                    41.93221314750872,
+                    -87.69027405218509
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Western/Elston",
+                "latLon": [
+                    41.93224028772006,
+                    -87.68839262715996
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Western/Elston",
+                "latLon": [
+                    41.9321162180935,
+                    -87.68727732261803
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Oakley",
+                "latLon": [
+                    41.93216662140421,
+                    -87.68552097843039
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Oakley",
+                "latLon": [
+                    41.93227905942471,
+                    -87.68532814540211
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Logan",
+                "latLon": [
+                    41.9321302469507,
+                    -87.68416603554631
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Logan",
+                "latLon": [
+                    41.93226982523296,
+                    -87.68412955362204
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Leavitt",
+                "latLon": [
+                    41.93226594806204,
+                    -87.68075758140661
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Leavitt",
+                "latLon": [
+                    41.93219228178,
+                    -87.68061165370955
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Damen/Clybourn",
+                "latLon": [
+                    41.932333216640885,
+                    -87.67868605296427
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Damen/Clybourn",
+                "latLon": [
+                    41.932228651210906,
+                    -87.67770215272222
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Wolcott",
+                "latLon": [
+                    41.93224403035952,
+                    -87.675857095261
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Wolcott",
+                "latLon": [
+                    41.932391152032324,
+                    -87.67553812505844
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "1800 W Diversey",
+                "latLon": [
+                    41.93238912792684,
+                    -87.67350382608223
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "1761 W Diversey",
+                "latLon": [
+                    41.93226017146833,
+                    -87.67349530097765
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Diversey & Paulina",
+                "latLon": [
+                    41.93243140867661,
+                    -87.67123614813345
+                ],
+                "routes": [
+                    {
+                        "label": "76",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/76/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Barry",
+                "latLon": [
+                    41.93775679920433,
+                    -87.68816452026587
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Barry",
+                "latLon": [
+                    41.93746182601684,
+                    -87.68783059436547
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Elston/Diversey",
+                "latLon": [
+                    41.93276500586131,
+                    -87.68778401076169
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Elston/Diversey",
+                "latLon": [
+                    41.93160095029621,
+                    -87.6880370597153
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Schubert",
+                "latLon": [
+                    41.93022959324042,
+                    -87.68770002714324
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Schubert",
+                "latLon": [
+                    41.930030140445055,
+                    -87.68797796155889
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Logan/Jones",
+                "latLon": [
+                    41.929277626170105,
+                    -87.68764921072089
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Logan/Jones",
+                "latLon": [
+                    41.92891572047321,
+                    -87.68794402919605
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Fullerton",
+                "latLon": [
+                    41.92527584770439,
+                    -87.68750940714875
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    },
+                    {
+                        "label": "X49",
+                        "bg": "#00a078",
+                        "url": "https://www.transitchicago.com/bus/X49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Fullerton",
+                "latLon": [
+                    41.92504736778563,
+                    -87.68777434680491
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    },
+                    {
+                        "label": "X49",
+                        "bg": "#00a078",
+                        "url": "https://www.transitchicago.com/bus/X49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Belden",
+                "latLon": [
+                    41.923450225476614,
+                    -87.68772316528039
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Western & Belden",
+                "latLon": [
+                    41.92328446087398,
+                    -87.68745521494631
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/49/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Rockwell",
+                "latLon": [
+                    41.92496326005639,
+                    -87.69237723764111
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Campbell",
+                "latLon": [
+                    41.92479874638647,
+                    -87.69015999722846
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Campbell",
+                "latLon": [
+                    41.92495457333329,
+                    -87.68997364749922
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Western",
+                "latLon": [
+                    41.92497590806138,
+                    -87.68808588196548
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Western",
+                "latLon": [
+                    41.92480393487736,
+                    -87.68782300737733
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Oakley",
+                "latLon": [
+                    41.924824487268765,
+                    -87.68525990562965
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Oakley",
+                "latLon": [
+                    41.92498734722511,
+                    -87.68511918963024
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Damen",
+                "latLon": [
+                    41.92509971984888,
+                    -87.67816417651719
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Damen",
+                "latLon": [
+                    41.92493834212598,
+                    -87.67731890544543
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Fullerton & Elston",
+                "latLon": [
+                    41.92514476222001,
+                    -87.6761165445762
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/74/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & Fullerton",
+                "latLon": [
+                    41.92485925822681,
+                    -87.67798867509914
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & Fullerton",
+                "latLon": [
+                    41.92527884053852,
+                    -87.67780228812441
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & Clybourn/Diversey",
+                "latLon": [
+                    41.93182236788801,
+                    -87.67796380286184
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & Clybourn/Diversey",
+                "latLon": [
+                    41.932483669951004,
+                    -87.67820276052883
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & George",
+                "latLon": [
+                    41.93399632033047,
+                    -87.67811246299262
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & George",
+                "latLon": [
+                    41.934159863214475,
+                    -87.67829407081611
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & Wellington",
+                "latLon": [
+                    41.9358446771464,
+                    -87.67816210248333
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & Wellington",
+                "latLon": [
+                    41.93605798768642,
+                    -87.67834372381766
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & Barry",
+                "latLon": [
+                    41.93768267957561,
+                    -87.67820512836985
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            },
+            {
+                "name": "Damen & Barry",
+                "latLon": [
+                    41.93786398835468,
+                    -87.67838673619333
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#565a5c",
+                        "url": "https://www.transitchicago.com/bus/50/"
+                    }
+                ]
+            }
+        ]
+    }
+}

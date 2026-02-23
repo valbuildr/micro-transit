@@ -1,0 +1,309 @@
+{
+    "name": "Charlotte",
+    "url": "https://www.microcenter.com/site/stores/Charlotte.aspx",
+    "latLon": [
+        35.174792921073745,
+        -80.87762362698668
+    ],
+    "address": "4744 South Blvd, Charlotte, NC 28217",
+    "stops": {
+        "rapid": [
+            {
+                "name": "Woodlawn",
+                "latLon": [
+                    35.17578322021165,
+                    -80.87907402192512
+                ],
+                "routes": [
+                    {
+                        "label": "Blue",
+                        "bg": "#0168b3",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Rail"
+                    }
+                ]
+            }
+        ],
+        "local": [
+            {
+                "name": "Woodlawn Station",
+                "latLon": [
+                    35.175930873163544,
+                    -80.87955414282987
+                ],
+                "routes": [
+                    {
+                        "label": "24",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "Woodlawn Rd & Chastain Ave",
+                "latLon": [
+                    35.178323787024425,
+                    -80.88088921196389
+                ],
+                "routes": [
+                    {
+                        "label": "24",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "Woodlawn Rd & Nations Crossing Rd",
+                "latLon": [
+                    35.17891191230305,
+                    -80.88281969192808
+                ],
+                "routes": [
+                    {
+                        "label": "24",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "Woodlawn Rd & Nations Crossing Rd",
+                "latLon": [
+                    35.179189238185735,
+                    -80.88421782739393
+                ],
+                "routes": [
+                    {
+                        "label": "24",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "Woodlawn Rd & Wallingford St",
+                "latLon": [
+                    35.17942353001393,
+                    -80.88460392341287
+                ],
+                "routes": [
+                    {
+                        "label": "24",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Briabend Dr",
+                "latLon": [
+                    35.18030868567596,
+                    -80.87574164605617
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd @ 4555",
+                "latLon": [
+                    35.18191374899178,
+                    -80.87564612753958
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Woodlawn Rd",
+                "latLon": [
+                    35.17736256823134,
+                    -80.87581376614015
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Inwood Dr",
+                "latLon": [
+                    35.174728301575655,
+                    -80.87583651056327
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd @ 5017 (Childcare Network)",
+                "latLon": [
+                    35.16948610791162,
+                    -80.87593957555777
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Seneca Pl",
+                "latLon": [
+                    35.167543826351746,
+                    -80.87597370965102
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Tyvola Rd",
+                "latLon": [
+                    35.16612585996588,
+                    -80.87598089646362
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Seneca Pl",
+                "latLon": [
+                    35.16737903355673,
+                    -80.87608004247681
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Seneca Pl",
+                "latLon": [
+                    35.16737903355673,
+                    -80.87608004247681
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Seneca Pl",
+                "latLon": [
+                    35.169713083443234,
+                    -80.87603851186088
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd @ 4900 (ACME Southern)",
+                "latLon": [
+                    35.171403951833206,
+                    -80.87602618137332
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Woodlawn Rd",
+                "latLon": [
+                    35.17450928226145,
+                    -80.87602231837289
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Woodlawn Rd",
+                "latLon": [
+                    35.17755717778694,
+                    -80.87594527320178
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Sterling Dr",
+                "latLon": [
+                    35.17991213064564,
+                    -80.87581547322091
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            },
+            {
+                "name": "South Blvd & Briabend Dr",
+                "latLon": [
+                    35.181919893682334,
+                    -80.87579420845597
+                ],
+                "routes": [
+                    {
+                        "label": "12",
+                        "bg": "#015747",
+                        "url": "https://www.charlottenc.gov/CATS/Ride/Bus/Bus-Routes-and-Schedules"
+                    }
+                ]
+            }
+        ]
+    }
+}

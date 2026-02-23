@@ -1,0 +1,622 @@
+{
+    "name": "Yonkers",
+    "url": "https://www.microcenter.com/site/stores/Yonkers.aspx",
+    "latLon": [
+        40.9250554014511,
+        -73.85628174747603
+    ],
+    "address": "750 Central Park Ave, Yonkers, NY 10704",
+    "stops": {
+        "local": [
+            {
+                "name": "Midland Ave @ Wrexham Rd",
+                "latLon": [
+                    40.931062118586745,
+                    -73.84964032648854
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "1224 Midland Ave @ Cross County Pkwy",
+                "latLon": [
+                    40.93071028467642,
+                    -73.84895773022438
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Midland Ave @ Kimball Ave",
+                "latLon": [
+                    40.92936068346727,
+                    -73.84824467045674
+                ],
+                "routes": [
+                    {
+                        "label": "26",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte26.pdf"
+                    },
+                    {
+                        "label": "55",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte55oct142025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Midland Ave @ Kimball Ave",
+                "latLon": [
+                    40.929177532569305,
+                    -73.84795759726272
+                ],
+                "routes": [
+                    {
+                        "label": "26",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte26.pdf"
+                    },
+                    {
+                        "label": "55",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte55oct142025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Midland Ave",
+                "latLon": [
+                    40.9300306258472,
+                    -73.84797673547904
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    },
+                    {
+                        "label": "26",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte26.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Midland Ave",
+                "latLon": [
+                    40.92947332141892,
+                    -73.84847666441664
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    },
+                    {
+                        "label": "26",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte26.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Fox Ave",
+                "latLon": [
+                    40.92745333843308,
+                    -73.84962845093429
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    },
+                    {
+                        "label": "26",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte26.pdf"
+                    },
+                    {
+                        "label": "55",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte55oct142025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Vredenburgh Ave",
+                "latLon": [
+                    40.92498438649039,
+                    -73.85113984500886
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Vredenburgh Ave",
+                "latLon": [
+                    40.924952884107576,
+                    -73.85129098441836
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Rigby St",
+                "latLon": [
+                    40.92323598192959,
+                    -73.85228641982962
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Rigby St",
+                "latLon": [
+                    40.92317297549818,
+                    -73.85218218575602
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Mile Square Rd",
+                "latLon": [
+                    40.92113534177457,
+                    -73.85344164013023
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Vernon Ave",
+                "latLon": [
+                    40.92053675922642,
+                    -73.85392632857246
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Villa Ave",
+                "latLon": [
+                    40.918811866006926,
+                    -73.85491134057268
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Villa Ave",
+                "latLon": [
+                    40.91861101935409,
+                    -73.85485401183219
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Kimball Ave @ Grant St",
+                "latLon": [
+                    40.91641348076657,
+                    -73.85626117183374
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte25.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Cross County at Stop and Shop",
+                "latLon": [
+                    40.92637944928417,
+                    -73.85232945034362
+                ],
+                "routes": [
+                    {
+                        "label": "26",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/june25rte26.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Cross County Center Theater",
+                "latLon": [
+                    40.92460355465269,
+                    -73.85520306387664
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Central Park Ave @ Mile Square Rd",
+                "latLon": [
+                    40.92458611726997,
+                    -73.85817442829158
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "21",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "28",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/bee-line/timetables-and-maps"
+                    }
+                ]
+            },
+            {
+                "name": "Central Park Ave @ Mildred Ave",
+                "latLon": [
+                    40.92560272163502,
+                    -73.85751923507581
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Cross County Center @ Macys E Lane",
+                "latLon": [
+                    40.92853439221069,
+                    -73.85646421797148
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "55",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte55oct142025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Yonkers Av @ Intercounty Med Plaza",
+                "latLon": [
+                    40.91742509945383,
+                    -73.85931823242147
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte7oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Yonkers Ave @ Trenchard St",
+                "latLon": [
+                    40.91921888861106,
+                    -73.86042707242557
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte7oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Yonkers Ave @ Trenchard St",
+                "latLon": [
+                    40.91908317600372,
+                    -73.86057543834121
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte7oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Yonkers Ave @ Central Park Ave",
+                "latLon": [
+                    40.92140375811661,
+                    -73.86235867316714
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte7oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Yonkers Ave @ Central Park Ave",
+                "latLon": [
+                    40.92151213440876,
+                    -73.86232595478727
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "21",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "28",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/bee-line/timetables-and-maps"
+                    }
+                ]
+            },
+            {
+                "name": "Central Park Ave @ Kettell Ave",
+                "latLon": [
+                    40.92238326699403,
+                    -73.86094542653396
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Central Park Ave @ Clark St",
+                "latLon": [
+                    40.92032036125673,
+                    -73.86550313760979
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "21",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "28",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/bee-line/timetables-and-maps"
+                    }
+                ]
+            },
+            {
+                "name": "Central Park Ave @ Clark St",
+                "latLon": [
+                    40.92068684420734,
+                    -73.86614587827606
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "21",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "28",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/bee-line/timetables-and-maps"
+                    }
+                ]
+            },
+            {
+                "name": "Central Park Ave @ Yonkers Ave",
+                "latLon": [
+                    40.92170640209509,
+                    -73.86329397821919
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "21",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "28",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/bee-line/timetables-and-maps"
+                    }
+                ]
+            },
+            {
+                "name": "Yonkers Ave @ Central Park Ave",
+                "latLon": [
+                    40.92181535422074,
+                    -73.86320790943321
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte7oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Yonkers Ave @ Central Park Ave",
+                "latLon": [
+                    40.92203436840522,
+                    -73.86310560817418
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte7oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Central Park Ave @ Staunton St",
+                "latLon": [
+                    40.925150526523666,
+                    -73.85920768320544
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "21",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "28",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/bee-line/timetables-and-maps"
+                    }
+                ]
+            },
+            {
+                "name": "Central Park Ave @ Burger King",
+                "latLon": [
+                    40.928421263824404,
+                    -73.85763393459803
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "21",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte2021oct2025.pdf"
+                    },
+                    {
+                        "label": "28",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/bee-line/timetables-and-maps"
+                    }
+                ]
+            },
+            {
+                "name": "Yonkers Ave @ Page Ave",
+                "latLon": [
+                    40.92362022627969,
+                    -73.86547210268886
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte7oct2025.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Yonkers Ave @ Saint Johns Ave",
+                "latLon": [
+                    40.9242161386705,
+                    -73.86706508410718
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#0080c0",
+                        "url": "https://transportation.westchestergov.com/images/Schedules/rte7oct2025.pdf"
+                    }
+                ]
+            }
+        ]
+    }
+}

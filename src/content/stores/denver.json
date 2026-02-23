@@ -1,0 +1,298 @@
+{
+    "name": "Denver",
+    "url": "https://www.microcenter.com/site/stores/Denver.aspx",
+    "latLon": [
+        39.637540802838814,
+        -104.89617443413006
+    ],
+    "address": "8000 E Quincy Ave, Denver, CO 80237",
+    "stops": {
+        "local": [
+            {
+                "name": "S Eastmoor Dr & Princeton Ave",
+                "latLon": [
+                    39.640752876578276,
+                    -104.90552358443988
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "S Eastmoor Dr & Princeton Ave",
+                "latLon": [
+                    39.64040198279925,
+                    -104.90515139615736
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "S Eastmoor Dr & Quincy Ave",
+                "latLon": [
+                    39.63913552423927,
+                    -104.90386120996625
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Quincy Ave & S Quebec St",
+                "latLon": [
+                    39.63853759044857,
+                    -104.90355072352133
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Quincy Ave & S Syracuse St",
+                "latLon": [
+                    39.63877438366269,
+                    -104.89964194576841
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Quincy Ave & S Syracuse St",
+                "latLon": [
+                    39.63853759044162,
+                    -104.89895921261423
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Quincy Ave & S Tamarac Pkwy",
+                "latLon": [
+                    39.63875832990716,
+                    -104.89685368427882
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Quincy Ave & S Tamarac Pkwy",
+                "latLon": [
+                    39.63852153663113,
+                    -104.89682762576149
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "S Tamarac Pkwy & Quincy Ave",
+                "latLon": [
+                    39.6377950979484,
+                    -104.89424783248148
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "S Tamarac Pkwy & Quincy Ave",
+                "latLon": [
+                    39.63750598846941,
+                    -104.8945253850336
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Tufts Ave & S DTC Blvd",
+                "latLon": [
+                    39.63300548860437,
+                    -104.89479465631173
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "S DTC Blvd & Tufts Ave",
+                "latLon": [
+                    39.63285804593564,
+                    -104.8932503189014
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Ulster - Tufts",
+                "latLon": [
+                    39.631129048475685,
+                    -104.89622694607097
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Union Ave & S DTC Blvd",
+                "latLon": [
+                    39.63099795145675,
+                    -104.89317952090599
+                ],
+                "routes": [
+                    {
+                        "label": "65",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/65/schedule"
+                    },
+                    {
+                        "label": "73",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/73/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Temple Dr & S Wabash St",
+                "latLon": [
+                    39.63240582873112,
+                    -104.88940517668473
+                ],
+                "routes": [
+                    {
+                        "label": "73",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/73/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "Temple Dr & S Wabash St",
+                "latLon": [
+                    39.63221006709478,
+                    -104.88937011666405
+                ],
+                "routes": [
+                    {
+                        "label": "73",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/73/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "S Yosemite St & Oxford Dr",
+                "latLon": [
+                    39.64067689965323,
+                    -104.88523755655824
+                ],
+                "routes": [
+                    {
+                        "label": "73",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/73/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "S Yosemite St & Radcliff Ave",
+                "latLon": [
+                    39.63684871720448,
+                    -104.88501637947964
+                ],
+                "routes": [
+                    {
+                        "label": "73",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/73/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "S Yosemite St & S Xeric Way",
+                "latLon": [
+                    39.6359733896304,
+                    -104.88532912514428
+                ],
+                "routes": [
+                    {
+                        "label": "73",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/73/schedule"
+                    }
+                ]
+            },
+            {
+                "name": "7800 Block Union Ave",
+                "latLon": [
+                    39.62862035226172,
+                    -104.89781334751711
+                ],
+                "routes": [
+                    {
+                        "label": "73",
+                        "bg": "#0076ce",
+                        "url": "https://app.rtd-denver.com/route/73/schedule"
+                    }
+                ]
+            }
+        ]
+    }
+}

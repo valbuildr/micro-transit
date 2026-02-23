@@ -1,0 +1,648 @@
+{
+    "name": "Cambridge",
+    "url": "https://www.microcenter.com/site/stores/Cambridge.aspx",
+    "latLon": [
+        42.35722585633166,
+        -71.11438210184888
+    ],
+    "address": "730 Memorial Dr, Cambridge, MA 02139",
+    "stops": {
+        "rapid": [
+            {
+                "name": "Boston University Central",
+                "latLon": [
+                    42.350104602439544,
+                    -71.1071074121565
+                ],
+                "routes": [
+                    {
+                        "label": "GL-B",
+                        "bg": "#00843d",
+                        "url": "https://www.mbta.com/schedules/Green-B/line"
+                    }
+                ]
+            },
+            {
+                "name": "Amory Street",
+                "latLon": [
+                    42.35098578541545,
+                    -71.11475761426543
+                ],
+                "routes": [
+                    {
+                        "label": "GL-B",
+                        "bg": "#00843d",
+                        "url": "https://www.mbta.com/schedules/Green-B/line"
+                    }
+                ]
+            },
+            {
+                "name": "Babcock Street",
+                "latLon": [
+                    42.35161471858856,
+                    -71.11993194838179
+                ],
+                "routes": [
+                    {
+                        "label": "GL-B",
+                        "bg": "#00843d",
+                        "url": "https://www.mbta.com/schedules/Green-B/line"
+                    }
+                ]
+            }
+        ],
+        "local": [
+            {
+                "name": "Commonwealth Ave @ St Marys St",
+                "latLon": [
+                    42.35025249486155,
+                    -71.10706909245557
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Commonwealth Ave & Carlton St",
+                "latLon": [
+                    42.350117189041804,
+                    -71.10895101417452
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Commonwealth Ave & University Rd",
+                "latLon": [
+                    42.350472759526475,
+                    -71.1090446844863
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Commonwealth Ave & University Rd",
+                "latLon": [
+                    42.35061697714719,
+                    -71.10999893972863
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    },
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    },
+                    {
+                        "label": "CT2",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/747/line"
+                    }
+                ]
+            },
+            {
+                "name": "Commonwealth Ave @ St Paul St",
+                "latLon": [
+                    42.35084406108302,
+                    -71.11484372864915
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Commonwealth Ave @ Buick St",
+                "latLon": [
+                    42.351312904815856,
+                    -71.11593796820065
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Commonwealth Avenue",
+                "latLon": [
+                    42.35124682638703,
+                    -71.11793484906818
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Commonwealth Ave @ Babcock St",
+                "latLon": [
+                    42.35155833841442,
+                    -71.12080030921345
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Babcock Street",
+                "latLon": [
+                    42.35166532198257,
+                    -71.12151986751775
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Commonwealth Avenue",
+                "latLon": [
+                    42.351986271594384,
+                    -71.12160928008811
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "1079 Commonwealth Ave",
+                "latLon": [
+                    42.35229777995108,
+                    -71.12395103803114
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Packards Corner",
+                "latLon": [
+                    42.35194221979053,
+                    -71.12398084222126
+                ],
+                "routes": [
+                    {
+                        "label": "57",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/57/line"
+                    }
+                ]
+            },
+            {
+                "name": "Mountfort St @ Lenox St",
+                "latLon": [
+                    42.34926808766786,
+                    -71.110022339375
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    },
+                    {
+                        "label": "CT2",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/747/line"
+                    }
+                ]
+            },
+            {
+                "name": "Cambridge St @ Seattle St",
+                "latLon": [
+                    42.358672053444614,
+                    -71.12397674391374
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    }
+                ]
+            },
+            {
+                "name": "Cambridge St @ Seattle St",
+                "latLon": [
+                    42.358887960836526,
+                    -71.1238515216791
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    }
+                ]
+            },
+            {
+                "name": "Cambridge St @ Mass Pike Exit",
+                "latLon": [
+                    42.360611407840175,
+                    -71.1187482957714
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    }
+                ]
+            },
+            {
+                "name": "Soldiers Field Rd @ Cambridge St",
+                "latLon": [
+                    42.36079828856237,
+                    -71.11866304472566
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    }
+                ]
+            },
+            {
+                "name": "River St opp Blackstone St",
+                "latLon": [
+                    42.36174792321554,
+                    -71.11490923001814
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    },
+                    {
+                        "label": "70",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/70/line"
+                    }
+                ]
+            },
+            {
+                "name": "River St @ Fairmont St",
+                "latLon": [
+                    42.36256046962455,
+                    -71.11239197717889
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    },
+                    {
+                        "label": "70",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/70/line"
+                    }
+                ]
+            },
+            {
+                "name": "River St @ Kelly Rd",
+                "latLon": [
+                    42.363161208090276,
+                    -71.11060957446699
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    },
+                    {
+                        "label": "70",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/70/line"
+                    }
+                ]
+            },
+            {
+                "name": "River St opp Kinnaird St",
+                "latLon": [
+                    42.36373113413135,
+                    -71.10898873468875
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    },
+                    {
+                        "label": "70",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/70/line"
+                    }
+                ]
+            },
+            {
+                "name": "Western Ave @ Kinnaird St",
+                "latLon": [
+                    42.3649035287428,
+                    -71.1092728853644
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    },
+                    {
+                        "label": "70",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/70/line"
+                    }
+                ]
+            },
+            {
+                "name": "Western Ave @ Howard St",
+                "latLon": [
+                    42.364748157313706,
+                    -71.11109852189763
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    },
+                    {
+                        "label": "70",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/70/line"
+                    }
+                ]
+            },
+            {
+                "name": "Western Ave @ Putnam Ave",
+                "latLon": [
+                    42.3645150994462,
+                    -71.1140902717085
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    },
+                    {
+                        "label": "70",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/70/line"
+                    }
+                ]
+            },
+            {
+                "name": "Western Ave opp Genzyme",
+                "latLon": [
+                    42.3641478549677,
+                    -71.11899368304063
+                ],
+                "routes": [
+                    {
+                        "label": "64",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/64/line"
+                    },
+                    {
+                        "label": "70",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/70/line"
+                    }
+                ]
+            },
+            {
+                "name": "Western Ave @ Genzyme",
+                "latLon": [
+                    42.36392185731309,
+                    -71.11981569736567
+                ],
+                "routes": [
+                    {
+                        "label": "70",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/70/line"
+                    }
+                ]
+            },
+            {
+                "name": "Pearl St @ William St",
+                "latLon": [
+                    42.36249271349172,
+                    -71.10504541027713
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    }
+                ]
+            },
+            {
+                "name": "Pearl St @ Erie St",
+                "latLon": [
+                    42.36019106206313,
+                    -71.10760382566797
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    }
+                ]
+            },
+            {
+                "name": "Pearl St @ Putnam Ave",
+                "latLon": [
+                    42.3581444009822,
+                    -71.10976878204873
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    }
+                ]
+            },
+            {
+                "name": "Granite St @ Pearl St",
+                "latLon": [
+                    42.355858020417735,
+                    -71.1119337383642
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    }
+                ]
+            },
+            {
+                "name": "Granite St @ Brookline St",
+                "latLon": [
+                    42.355061330016795,
+                    -71.11047874750581
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    }
+                ]
+            },
+            {
+                "name": "Brookline St @ Granite St",
+                "latLon": [
+                    42.35537871194901,
+                    -71.10997914221149
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    }
+                ]
+            },
+            {
+                "name": "Brookline St @ Putnam Ave",
+                "latLon": [
+                    42.3574289251391,
+                    -71.10785964589299
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    }
+                ]
+            },
+            {
+                "name": "Brookline St @ Erie St",
+                "latLon": [
+                    42.3574289251391,
+                    -71.10785964589299
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    }
+                ]
+            },
+            {
+                "name": "Brookline St @ Pacific St",
+                "latLon": [
+                    42.36112982085819,
+                    -71.10396984220222
+                ],
+                "routes": [
+                    {
+                        "label": "47",
+                        "bg": "#ffc72c",
+                        "text": "black",
+                        "url": "https://www.mbta.com/schedules/47/line"
+                    }
+                ]
+            }
+        ]
+    }
+}

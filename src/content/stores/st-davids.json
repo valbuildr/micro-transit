@@ -1,0 +1,223 @@
+{
+    "name": "St. Davids",
+    "url": "https://www.microcenter.com/site/stores/St-Davids.aspx",
+    "latLon": [
+        40.039644000000024,
+        -75.36866262698538
+    ],
+    "address": "550 E Lancaster Ave Ste C, St Davids, PA 19087",
+    "stops": {
+        "rapid": [
+            {
+                "name": "St. Davids",
+                "latLon": [
+                    40.044046557274704,
+                    -75.37351206113887
+                ],
+                "routes": [
+                    {
+                        "label": "PAO",
+                        "bg": "#4c748c",
+                        "url": "https://www.septa.org/schedules/PAO"
+                    }
+                ]
+            },
+            {
+                "name": "Radnor",
+                "latLon": [
+                    40.04478367543724,
+                    -75.35943544013858
+                ],
+                "routes": [
+                    {
+                        "label": "PAO",
+                        "bg": "#4c748c",
+                        "url": "https://www.septa.org/schedules/PAO"
+                    }
+                ]
+            }
+        ],
+        "local": [
+            {
+                "name": "Radnor Chester Rd & King Prussia Rd",
+                "latLon": [
+                    40.04321171803047,
+                    -75.35919187220912
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Radnor Station NHSL",
+                "latLon": [
+                    40.04316093526676,
+                    -75.35949774640221
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Radnor Chester Rd & Radnor Hotel Dr",
+                "latLon": [
+                    40.04063595678061,
+                    -75.36443352739349
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "RadnorChester Rd & Lancaster Av - FS",
+                "latLon": [
+                    40.04029777363355,
+                    -75.3648089967357
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Lancaster Av & Saint Davids Square",
+                "latLon": [
+                    40.04063840548869,
+                    -75.3683302692007
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Lancaster & Saint Davids Square - FS",
+                "latLon": [
+                    40.04093609162981,
+                    -75.36828063081556
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Lancaster Av & Cambria Ct",
+                "latLon": [
+                    40.042260005379646,
+                    -75.37109541928282
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Lancaster Av & Cambria Ct",
+                "latLon": [
+                    40.042190335624454,
+                    -75.3714842532997
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Lancaster Av & Chamounix Rd",
+                "latLon": [
+                    40.042918697746515,
+                    -75.3739413534145
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Lancaster Av & Saint Davids Rd",
+                "latLon": [
+                    40.04283002799328,
+                    -75.3743880988807
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Lancaster Av & Pembroke Av",
+                "latLon": [
+                    40.043545716292975,
+                    -75.37806961256123
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            },
+            {
+                "name": "Lancaster Av & Pembroke Av",
+                "latLon": [
+                    40.04338104531676,
+                    -75.37848326577068
+                ],
+                "routes": [
+                    {
+                        "label": "106",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.septa.org/schedules/106"
+                    }
+                ]
+            }
+        ]
+    }
+}

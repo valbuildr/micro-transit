@@ -1,0 +1,111 @@
+{
+    "name": "Columbus",
+    "url": "https://www.microcenter.com/site/stores/columbus.aspx",
+    "latLon": [
+        40.06084284575651,
+        -83.04028727116425
+    ],
+    "address": "747 Bethel Rd, Columbus, OH 43214",
+    "stops": {
+        "local": [
+            {
+                "name": "Olentangy River Rd & Bethel Rd",
+                "latLon": [
+                    40.06169679785549,
+                    -83.03649682692856
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#007b4b",
+                        "url": "https://ride.cota.com/#/route/1:074"
+                    }
+                ]
+            },
+            {
+                "name": "Olentangy River Rd & Bethel Rd",
+                "latLon": [
+                    40.061499279950894,
+                    -83.0365637350699
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#007b4b",
+                        "url": "https://ride.cota.com/#/route/1:074"
+                    }
+                ]
+            },
+            {
+                "name": "Olentangy River Rd & Olde Towne Ave",
+                "latLon": [
+                    40.058565705859536,
+                    -83.03476677346654
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#007b4b",
+                        "url": "https://ride.cota.com/#/route/1:074"
+                    }
+                ]
+            },
+            {
+                "name": "Olentangy River Rd & Olde Towne Ave",
+                "latLon": [
+                    40.05826575725515,
+                    -83.03451825751296
+                ],
+                "routes": [
+                    {
+                        "label": "74",
+                        "bg": "#007b4b",
+                        "url": "https://ride.cota.com/#/route/1:074"
+                    }
+                ]
+            },
+            {
+                "name": "W Henderson Rd & Knightsbridge Blvd",
+                "latLon": [
+                    40.05265383082954,
+                    -83.04211995873193
+                ],
+                "routes": [
+                    {
+                        "label": "33",
+                        "bg": "#00205b",
+                        "url": "https://ride.cota.com/#/route/1:033"
+                    }
+                ]
+            },
+            {
+                "name": "W Henderson Rd & Knightsbridge Blvd",
+                "latLon": [
+                    40.05243913598731,
+                    -83.04219007877178
+                ],
+                "routes": [
+                    {
+                        "label": "33",
+                        "bg": "#00205b",
+                        "url": "https://ride.cota.com/#/route/1:033"
+                    }
+                ]
+            },
+            {
+                "name": "W Henderson Rd & Lauraland Dr E",
+                "latLon": [
+                    40.05219760341154,
+                    -83.03798287627228
+                ],
+                "routes": [
+                    {
+                        "label": "33",
+                        "bg": "#00205b",
+                        "url": "https://ride.cota.com/#/route/1:033"
+                    }
+                ]
+            }
+        ]
+    }
+}

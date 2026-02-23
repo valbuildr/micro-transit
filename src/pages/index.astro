@@ -1,0 +1,81 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { Leaflet, CreateLeafletIcon, Marker, Popup } from "astro-leaflet";
+import { getCollection } from "astro:content";
+
+const stores = await getCollection("stores");
+---
+
+<BaseLayout title="Home">
+  <div class="pb-2">
+    <h1 class="font-special text-4xl font-bold pb-2">All Stores</h1>
+  </div>
+
+  <div class="pb-2">
+    <CreateLeafletIcon
+      name="store"
+      options={{ className: "leaflet-icon-store", iconSize: [20, 20] }}
+    />
+
+    <Leaflet
+      options={{
+        tileByName: "Google&type=street&extra=transit",
+        center: [39.833333, -98.583333],
+        zoom: 4,
+      }}
+      class="pb-2 rounded-xl"
+    >
+      {
+        stores.map((store) => (
+          <Marker
+            latlng={store.data.latLon}
+            options={{ title: store.data.name }}
+            astroIconName="store"
+          >
+            <Popup
+              content={`<b>${store.data.name}</b><br/>${store.data.address}<br/><br/>${store.data.stops.rapid?.length ?? 0} rapid stops nearby<br/>${store.data.stops.local?.length ?? 0} local stops nearby<br/><br/><a href="/store/${store.id}">More Info</a>`}
+            />
+          </Marker>
+        ))
+      }
+    </Leaflet>
+  </div>
+
+  <div class="pb-2">
+    <ul class="space-y-2">
+      {
+        stores.map((store) => (
+          <li>
+            <div class="p-3 border border-black/50 dark:border-white/50 rounded-xl">
+              <p class="font-bold">{store.data.name}</p>
+              <p>{store.data.address}</p>
+
+              <p class="pt-2">
+                {store.data.stops.rapid?.length ?? 0} rapid stops nearby
+              </p>
+              <p>{store.data.stops.local?.length ?? 0} local stops nearby</p>
+
+              <p class="pt-2">
+                <a
+                  href={`/store/${store.id}`}
+                  class="text-blue-700 dark:text-blue-400 hover:underline"
+                >
+                  More Info
+                </a>
+              </p>
+            </div>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</BaseLayout>
+
+<style is:global>
+  .leaflet-icon-store {
+    background: goldenrod;
+    border: 2px solid white;
+    filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.5));
+    border-radius: 50%;
+  }
+</style>

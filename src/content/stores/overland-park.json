@@ -1,0 +1,217 @@
+{
+    "name": "Overland Park",
+    "url": "https://www.microcenter.com/site/stores/Overland-Park.aspx",
+    "latLon": [
+        38.960546000000015,
+        -94.67016527116442
+    ],
+    "address": "9294 Metcalf Ave, Overland Park, KS 66212",
+    "stops": {
+        "local": [
+            {
+                "name": "On Metcalf at 91st St NB",
+                "latLon": [
+                    38.964602402459064,
+                    -94.66742796026755
+                ],
+                "routes": [
+                    {
+                        "label": "401",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/401-metcalf-plaza"
+                    },
+                    {
+                        "label": "404",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/404-metcalf-downtown"
+                    }
+                ]
+            },
+            {
+                "name": "On Metcalf at 91st St SB",
+                "latLon": [
+                    38.96359262153344,
+                    -94.66786085576744
+                ],
+                "routes": [
+                    {
+                        "label": "401",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/401-metcalf-plaza"
+                    },
+                    {
+                        "label": "404",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/404-metcalf-downtown"
+                    }
+                ]
+            },
+            {
+                "name": "On Metcalf at 95th St Northbound Nearside",
+                "latLon": [
+                    38.9561265251516,
+                    -94.66737479179298
+                ],
+                "routes": [
+                    {
+                        "label": "401",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/401-metcalf-plaza"
+                    },
+                    {
+                        "label": "404",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/404-metcalf-downtown"
+                    }
+                ]
+            },
+            {
+                "name": "On Metcalf at 95th St Southbound Farside",
+                "latLon": [
+                    38.95609815579294,
+                    -94.66792723236048
+                ],
+                "routes": [
+                    {
+                        "label": "401",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/401-metcalf-plaza"
+                    },
+                    {
+                        "label": "404",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/404-metcalf-downtown"
+                    }
+                ]
+            },
+            {
+                "name": "On 95th at Lowell Eastbound Nearside",
+                "latLon": [
+                    38.956560386619884,
+                    -94.67710214474667
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/495-95th-street"
+                    }
+                ]
+            },
+            {
+                "name": "On 95th at Lowell Westbound",
+                "latLon": [
+                    38.95677849408032,
+                    -94.6768479595963
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/495-95th-street"
+                    }
+                ]
+            },
+            {
+                "name": "On 95th at Foster/Riley Westbound",
+                "latLon": [
+                    38.95677564186208,
+                    -94.67216900773913
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/495-95th-street"
+                    }
+                ]
+            },
+            {
+                "name": "On 95th at Foster/Riley Eastbound Farside",
+                "latLon": [
+                    38.956561184643775,
+                    -94.67208364539007
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/495-95th-street"
+                    }
+                ]
+            },
+            {
+                "name": "On 95th at Metcalf Westbound Farside",
+                "latLon": [
+                    38.9567960663226,
+                    -94.6686034877966
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/495-95th-street"
+                    }
+                ]
+            },
+            {
+                "name": "On 95th at Metcalf Eastbound Farside",
+                "latLon": [
+                    38.95657650303543,
+                    -94.66731648622634
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/495-95th-street"
+                    }
+                ]
+            },
+            {
+                "name": "On 95th at Barkley St",
+                "latLon": [
+                    38.95658671529821,
+                    -94.66402675243212
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/495-95th-street"
+                    }
+                ]
+            },
+            {
+                "name": "On 95th at Barkley Westbound",
+                "latLon": [
+                    38.95682670300804,
+                    -94.66377723171954
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://ridekc.org/routes/495-95th-street"
+                    }
+                ]
+            }
+        ]
+    }
+}

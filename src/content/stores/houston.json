@@ -1,0 +1,604 @@
+{
+    "name": "Houston",
+    "url": "https://www.microcenter.com/site/stores/Houston.aspx",
+    "latLon": [
+        29.72486162903552,
+        -95.46697439243658
+    ],
+    "address": "5305 S Rice Ave, Houston, TX 77081",
+    "stops": {
+        "local": [
+            {
+                "name": "W Loop S @ Westpark Dr",
+                "latLon": [
+                    29.725942715471213,
+                    -95.45949168981772
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "W Loop S @ Terminal St",
+                "latLon": [
+                    29.725000264257485,
+                    -95.4608691341847
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "W Loop S @ Loop Central Dr",
+                "latLon": [
+                    29.724112177081942,
+                    -95.45976996140531
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "W Loop S @ Lehigh St",
+                "latLon": [
+                    29.72231785461729,
+                    -95.46080652307542
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "W Loop S @ Glenmont Dr",
+                "latLon": [
+                    29.72127266203943,
+                    -95.4597351774629
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "W Loop S @ Glenmont Dr",
+                "latLon": [
+                    29.7203905835839,
+                    -95.46074391197406
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "W Loop S @ Mayfair St",
+                "latLon": [
+                    29.71897078343538,
+                    -95.4607299983903
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "Fournace Pl @ Anderson St",
+                "latLon": [
+                    29.71668759669047,
+                    -95.46388196228216
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "Fournace Pl @ Anderson St",
+                "latLon": [
+                    29.71658275233864,
+                    -95.46403518458743
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "Fournace Pl @ S Rice Ave",
+                "latLon": [
+                    29.716483056174773,
+                    -95.46702915267092
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "Fournace Pl @ S Rice Ave",
+                "latLon": [
+                    29.716675558931104,
+                    -95.46748950832715
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "Gulfton Dr @ S Rice Ave",
+                "latLon": [
+                    29.716674172529302,
+                    -95.46893873163269
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/9-gulfton-holman"
+                    }
+                ]
+            },
+            {
+                "name": "S Rice Ave @ Fournace Pl",
+                "latLon": [
+                    29.716368430757786,
+                    -95.46796482288717
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    },
+                    {
+                        "label": "310",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/310-gulfton-circulator"
+                    }
+                ]
+            },
+            {
+                "name": "S Rice Ave @ Fournace Pl",
+                "latLon": [
+                    29.716911386922245,
+                    -95.46815805859472
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    },
+                    {
+                        "label": "309",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/309-gulfton-circulator"
+                    }
+                ]
+            },
+            {
+                "name": "S Rice Ave @ Mayfair St",
+                "latLon": [
+                    29.71916709156257,
+                    -95.46818079218666
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    },
+                    {
+                        "label": "309",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/309-gulfton-circulator"
+                    }
+                ]
+            },
+            {
+                "name": "S Rice Ave @ Glenmont Dr",
+                "latLon": [
+                    29.720065410603084,
+                    -95.46803302370063
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    },
+                    {
+                        "label": "310",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/310-gulfton-circulator"
+                    }
+                ]
+            },
+            {
+                "name": "S Rice Ave @ Glenmont Dr",
+                "latLon": [
+                    29.72047014512788,
+                    -95.46820352579981
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    },
+                    {
+                        "label": "309",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/309-gulfton-circulator"
+                    }
+                ]
+            },
+            {
+                "name": "S Rice Ave @ Glenmont Dr MB",
+                "latLon": [
+                    29.722938003227345,
+                    -95.46806144072225
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    },
+                    {
+                        "label": "310",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/310-gulfton-circulator"
+                    }
+                ]
+            },
+            {
+                "name": "S Rice Ave @ Westpark Dr MB",
+                "latLon": [
+                    29.72320946390797,
+                    -95.46822625941401
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    },
+                    {
+                        "label": "309",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/309-gulfton-circulator"
+                    }
+                ]
+            },
+            {
+                "name": "S Rice Ave @ Westpark Dr",
+                "latLon": [
+                    29.72508992596125,
+                    -95.46827172663956
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    },
+                    {
+                        "label": "309",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/309-gulfton-circulator"
+                    }
+                ]
+            },
+            {
+                "name": "S Rice Ave @ Westpark Dr",
+                "latLon": [
+                    29.72524786342342,
+                    -95.46806144072252
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    },
+                    {
+                        "label": "310",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/310-gulfton-circulator"
+                    }
+                ]
+            },
+            {
+                "name": "Sage Rd @ S Rice Ave",
+                "latLon": [
+                    29.727251673427574,
+                    -95.46793640585126
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    }
+                ]
+            },
+            {
+                "name": "Sage Rd @ S Rice Ave",
+                "latLon": [
+                    29.72805121204843,
+                    -95.46761245187095
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    }
+                ]
+            },
+            {
+                "name": "Sage Rd @ Richmond Ave",
+                "latLon": [
+                    29.73109294329641,
+                    -95.46674849730472
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    }
+                ]
+            },
+            {
+                "name": "Sage Rd @ Richmond Ave",
+                "latLon": [
+                    29.731339705707818,
+                    -95.46653821138783
+                ],
+                "routes": [
+                    {
+                        "label": "20",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/20-canal-memorial"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ Post Oak Blvd",
+                "latLon": [
+                    29.7317845073006,
+                    -95.46104305397502
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ Post Oak Blvd",
+                "latLon": [
+                    29.73207129974181,
+                    -95.46151281344312
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ Mccue Rd",
+                "latLon": [
+                    29.731680804488697,
+                    -95.46365013698257
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ Mccue Rd",
+                "latLon": [
+                    29.73195003555594,
+                    -95.46382563516173
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ Sage Rd",
+                "latLon": [
+                    29.731470784042475,
+                    -95.46590097319293
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ Sage Rd",
+                "latLon": [
+                    29.731447051292452,
+                    -95.4668926821973
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ S Rice Ave",
+                "latLon": [
+                    29.731697995957976,
+                    -95.46799716228368
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ S Rice Ave",
+                "latLon": [
+                    29.73139504459011,
+                    -95.46853720663383
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ Yorktown St",
+                "latLon": [
+                    29.73140116448791,
+                    -95.47126316273321
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Ave @ Yorktown St",
+                "latLon": [
+                    29.731650165662337,
+                    -95.47157858684105
+                ],
+                "routes": [
+                    {
+                        "label": "25",
+                        "bg": "#eb0000",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/25-richmond"
+                    }
+                ]
+            },
+            {
+                "name": "Chimney Rock Rd @ Star Ln",
+                "latLon": [
+                    29.72768845735962,
+                    -95.47651031158412
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/49-chimney-rock-s-post-oak"
+                    }
+                ]
+            },
+            {
+                "name": "Chimney Rock Rd @ Star Ln",
+                "latLon": [
+                    29.727410560833743,
+                    -95.4762876943127
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/49-chimney-rock-s-post-oak"
+                    }
+                ]
+            },
+            {
+                "name": "Chimney Rock Rd @ El Camino Del Rey",
+                "latLon": [
+                    29.724016581837887,
+                    -95.47640556073473
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/49-chimney-rock-s-post-oak"
+                    }
+                ]
+            },
+            {
+                "name": "Chimney Rock Rd @ El Camino Del Rey",
+                "latLon": [
+                    29.723216044848748,
+                    -95.47662883988257
+                ],
+                "routes": [
+                    {
+                        "label": "49",
+                        "bg": "#2957ff",
+                        "url": "https://www.ridemetro.org/riding-metro/transit-services/local-bus/route-details/49-chimney-rock-s-post-oak"
+                    }
+                ]
+            }
+        ]
+    }
+}

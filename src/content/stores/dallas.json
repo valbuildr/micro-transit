@@ -1,0 +1,249 @@
+{
+    "name": "Dallas",
+    "url": "https://www.microcenter.com/site/stores/Dallas.aspx",
+    "latLon": [
+        32.93739096531972,
+        -96.75027608465825
+    ],
+    "address": "13929 N Central Expy, Dallas, TX 75243",
+    "stops": {
+        "local": [
+            {
+                "name": "Ti @ G Drive - S - FS",
+                "latLon": [
+                    32.93103146742306,
+                    -96.74884360164017
+                ],
+                "routes": [
+                    {
+                        "label": "417",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-417-ti-main-north-shuttle"
+                    }
+                ]
+            },
+            {
+                "name": "Buckingham @ Sherman - E - FS",
+                "latLon": [
+                    32.93612752108019,
+                    -96.74186106135726
+                ],
+                "routes": [
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Buckingham @ Sherman - W - NS",
+                "latLon": [
+                    32.93621557007853,
+                    -96.74180860607977
+                ],
+                "routes": [
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Sherman @ Buckingham - N - FS",
+                "latLon": [
+                    32.93717081633469,
+                    -96.74158075532257
+                ],
+                "routes": [
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Sherman @ Spring Valley - N - MB",
+                "latLon": [
+                    32.93887191150094,
+                    -96.7404514820518
+                ],
+                "routes": [
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Sherman @ Spring Valley - S - FS",
+                "latLon": [
+                    32.93926767181965,
+                    -96.74029429381979
+                ],
+                "routes": [
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Spring Valley @ Goldmark - E - FS",
+                "latLon": [
+                    32.93988351198425,
+                    -96.751275098704
+                ],
+                "routes": [
+                    {
+                        "label": "200",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-200-spring-valley"
+                    },
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Spring Valley @ Weatherred - W - NS",
+                "latLon": [
+                    32.94014387782594,
+                    -96.7515646559506
+                ],
+                "routes": [
+                    {
+                        "label": "200",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-200-spring-valley"
+                    },
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Spring Valley @ Gatehouse - W - MB",
+                "latLon": [
+                    32.94014502196618,
+                    -96.75368137330517
+                ],
+                "routes": [
+                    {
+                        "label": "200",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-200-spring-valley"
+                    },
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Spring Valley at Gatehouse - E - NS",
+                "latLon": [
+                    32.94014502196618,
+                    -96.75368137330517
+                ],
+                "routes": [
+                    {
+                        "label": "200",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-200-spring-valley"
+                    },
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Spring Valley @ Gatehouse - W - FS",
+                "latLon": [
+                    32.94016036281942,
+                    -96.75563029607969
+                ],
+                "routes": [
+                    {
+                        "label": "200",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-200-spring-valley"
+                    },
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Spring Valley @ Waterview - W - NS",
+                "latLon": [
+                    32.94014372034243,
+                    -96.75720407609766
+                ],
+                "routes": [
+                    {
+                        "label": "200",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-200-spring-valley"
+                    },
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Spring Valley @ Waterview - E - NS",
+                "latLon": [
+                    32.939911126893286,
+                    -96.75775423486623
+                ],
+                "routes": [
+                    {
+                        "label": "200",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-200-spring-valley"
+                    },
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            },
+            {
+                "name": "Spring Valley @ Spring Valley Plz - W - FS",
+                "latLon": [
+                    32.940151685421796,
+                    -96.75952596429259
+                ],
+                "routes": [
+                    {
+                        "label": "200",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-200-spring-valley"
+                    },
+                    {
+                        "label": "202",
+                        "bg": "#00205b",
+                        "url": "https://www.dart.org/guide/transit-and-use/bus-routes/bus-route-detail/bus-route-202-buckingham"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "name": "Duluth",
+    "url": "https://www.microcenter.com/site/stores/Duluth.aspx",
+    "latLon": [
+        33.96428114291059,
+        -84.13742850772799
+    ],
+    "address": "2340 Pleasant Hill Rd, Duluth, GA 30096",
+    "stops": {
+        "local": [
+            {
+                "name": "Satellite Rd & Pars Cars Sales",
+                "latLon": [
+                    33.96447364143758,
+                    -84.12682711130715
+                ],
+                "routes": [
+                    {
+                        "label": "10a",
+                        "bg": "#5a3f99",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "30",
+                        "bg": "#f2e300",
+                        "text": "black",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-30-pdf"
+                    },
+                    {
+                        "label": "40",
+                        "bg": "#ab0634",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-40-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Gwinnett Transit Center",
+                "latLon": [
+                    33.96315813055192,
+                    -84.13122191835001
+                ],
+                "routes": [
+                    {
+                        "label": "10a",
+                        "bg": "#5a3f99",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "30",
+                        "bg": "#f2e300",
+                        "text": "black",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-30-pdf"
+                    },
+                    {
+                        "label": "40",
+                        "bg": "#ab0634",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-40-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Satellite Blvd & Quicktrip OB",
+                "latLon": [
+                    33.962158628743815,
+                    -84.13239190628687
+                ],
+                "routes": [
+                    {
+                        "label": "10a",
+                        "bg": "#5a3f99",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Satellite Blvd & Bank of America IB",
+                "latLon": [
+                    33.95967208633364,
+                    -84.13303485898243
+                ],
+                "routes": [
+                    {
+                        "label": "10a",
+                        "bg": "#5a3f99",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Satellite Blvd & Korean BBQ 24",
+                "latLon": [
+                    33.95813580233863,
+                    -84.13649981317936
+                ],
+                "routes": [
+                    {
+                        "label": "10a",
+                        "bg": "#5a3f99",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Satellite Blvd & Midas IB",
+                "latLon": [
+                    33.95788348712681,
+                    -84.13628921536859
+                ],
+                "routes": [
+                    {
+                        "label": "10a",
+                        "bg": "#5a3f99",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Satellite Blvd & Satellite Square OB",
+                "latLon": [
+                    33.95653455846455,
+                    -84.13919078530168
+                ],
+                "routes": [
+                    {
+                        "label": "10a",
+                        "bg": "#5a3f99",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Satellite Blvd & InTown Suites IB",
+                "latLon": [
+                    33.9560735887271,
+                    -84.13933118388054
+                ],
+                "routes": [
+                    {
+                        "label": "10a",
+                        "bg": "#5a3f99",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    },
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Steve Reynolds Blvd & Old Norcross Rd",
+                "latLon": [
+                    33.96324405005832,
+                    -84.1426220313025
+                ],
+                "routes": [
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Steve Reynolds Blvd & Old Norcross Rd OB",
+                "latLon": [
+                    33.962265214376025,
+                    -84.1415598765822
+                ],
+                "routes": [
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Steve Reynolds Blvd & Chesdan Dr",
+                "latLon": [
+                    33.95925744875399,
+                    -84.14175299568498
+                ],
+                "routes": [
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Steve Reynolds Blvd & 7 Coffee Shop OB",
+                "latLon": [
+                    33.95842095067666,
+                    -84.14159206315166
+                ],
+                "routes": [
+                    {
+                        "label": "10b",
+                        "bg": "#008b44",
+                        "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/bus-schedule-route-10-pdf"
+                    }
+                ]
+            }
+        ]
+    }
+}

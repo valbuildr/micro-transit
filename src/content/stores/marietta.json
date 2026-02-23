@@ -1,0 +1,181 @@
+{
+    "name": "Marietta",
+    "url": "https://www.microcenter.com/site/stores/Marietta.aspx",
+    "latLon": [
+        33.92178658327955,
+        -84.46615264417778
+    ],
+    "address": "1275 Powers Ferry Rd #50, Marietta, GA 30067",
+    "stops": {
+        "local": [
+            {
+                "name": "Delk Rd at Bentley Rd",
+                "latLon": [
+                    33.92261161273044,
+                    -84.47631014673165
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Delk Rd at Bentley Rd",
+                "latLon": [
+                    33.922542796171975,
+                    -84.47514909519425
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Delk Rd at Brunswick Bowling Lane",
+                "latLon": [
+                    33.922998043141625,
+                    -84.47400718186904
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Delk Rd at Powers Ferry Rd",
+                "latLon": [
+                    33.92408877289255,
+                    -84.47061744492105
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Delk Rd at Powers Ferry Rd",
+                "latLon": [
+                    33.92395098659676,
+                    -84.46995323725552
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Powers Ferry Rd at Powers Ferry Common",
+                "latLon": [
+                    33.92204683542925,
+                    -84.46809259487426
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Powers Ferry Rd at Powers Ferry Common",
+                "latLon": [
+                    33.92212390867157,
+                    -84.4678073239699
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Powers Ferry Rd at Terrell Mill Rd",
+                "latLon": [
+                    33.92062297432982,
+                    -84.4673356438055
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Powers Ferry Rd at Terrell Mill Rd",
+                "latLon": [
+                    33.9188710751265,
+                    -84.46724405383034
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Powers Ferry Rd at Terrell Mill Rd",
+                "latLon": [
+                    33.916943335806835,
+                    -84.46669175694635
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Powers Ferry Rd at Wildwood Pkwy",
+                "latLon": [
+                    33.913507557958425,
+                    -84.4649608822668
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            },
+            {
+                "name": "Powers Ferry Rd at Wildwood Pkwy",
+                "latLon": [
+                    33.913180969849144,
+                    -84.46535441768192
+                ],
+                "routes": [
+                    {
+                        "label": "50",
+                        "bg": "#882231",
+                        "url": "https://www.cobbcounty.gov/transportation/cobb-transit-service-cobblinc/routes-schedules/cobblinc-route-route-50"
+                    }
+                ]
+            }
+        ]
+    }
+}

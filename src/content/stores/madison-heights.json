@@ -1,0 +1,367 @@
+{
+    "name": "Madison Heights",
+    "url": "https://www.microcenter.com/site/stores/Madison-Heights.aspx",
+    "latLon": [
+        42.532945,
+        -83.11453827116443
+    ],
+    "address": "32800 Concord Dr, Madison Heights, MI 48071",
+    "stops": {
+        "local": [
+            {
+                "name": "14 Mile & Shefield",
+                "latLon": [
+                    42.53388594004206,
+                    -83.12666303936595
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "14 Mile & Stephenson",
+                "latLon": [
+                    42.53402979188387,
+                    -83.12154831985376
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "14 Mile & John R",
+                "latLon": [
+                    42.53412185689194,
+                    -83.10627443897131
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "14 Mile & Stephenson",
+                "latLon": [
+                    42.53385538116267,
+                    -83.12161099127584
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "14 Mile & N Campbell",
+                "latLon": [
+                    42.53372303711014,
+                    -83.12574961955649
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "Concord Drive @ 14 Mile",
+                "latLon": [
+                    42.53340983177072,
+                    -83.11333793187518
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "Concord Towers Apartments",
+                "latLon": [
+                    42.532524971845156,
+                    -83.11327657683903
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "Whitcomb & Concord",
+                "latLon": [
+                    42.5277801215051,
+                    -83.11283934735157
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R & Whitcomb",
+                "latLon": [
+                    42.52763690155333,
+                    -83.106622247364
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R & Losee",
+                "latLon": [
+                    42.529212971073946,
+                    -83.10664854237949
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R & Mandoline",
+                "latLon": [
+                    42.53221643612617,
+                    -83.10679754746563
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R @ 14 Mile",
+                "latLon": [
+                    42.53341778174044,
+                    -83.107130617623
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R & Madison Place",
+                "latLon": [
+                    42.53036916078962,
+                    -83.10695531752633
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R & Whitcomb",
+                "latLon": [
+                    42.52826991787559,
+                    -83.10688519748626
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "Whitcomb & John R",
+                "latLon": [
+                    42.52750125438231,
+                    -83.10784934805424
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "Whitcomb & Concord",
+                "latLon": [
+                    42.52804962794245,
+                    -83.11281376744358
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "Concord @ 14 Mile",
+                "latLon": [
+                    42.53216022193231,
+                    -83.1129905934952
+                ],
+                "routes": [
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R & Whitcomb SW",
+                "latLon": [
+                    42.52691693118733,
+                    -83.10684770847132
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R @ Sears NW",
+                "latLon": [
+                    42.537140090655164,
+                    -83.10732296901544
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R & Sears",
+                "latLon": [
+                    42.53660233384608,
+                    -83.10687079139248
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            },
+            {
+                "name": "John R @ 14 Mile",
+                "latLon": [
+                    42.534899202678815,
+                    -83.10692988840336
+                ],
+                "routes": [
+                    {
+                        "label": "495",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    },
+                    {
+                        "label": "760",
+                        "bg": "#d70000",
+                        "url": "https://www.smartbus.org/"
+                    }
+                ]
+            }
+        ]
+    }
+}

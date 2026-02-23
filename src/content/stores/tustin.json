@@ -1,0 +1,253 @@
+{
+    "name": "Tustin",
+    "url": "https://www.microcenter.com/site/stores/Tustin.aspx",
+    "latLon": [
+        33.72454065592521,
+        -117.8329033225196
+    ],
+    "address": "1100 Edinger Ave, Tustin, CA 92780",
+    "stops": {
+        "local": [
+            {
+                "name": "Red Hill-Sycamore",
+                "latLon": [
+                    33.725283604604684,
+                    -117.82345643765471
+                ],
+                "routes": [
+                    {
+                        "label": "71",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route071.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Red Hill-Sycamore",
+                "latLon": [
+                    33.72501801398211,
+                    -117.82412490306164
+                ],
+                "routes": [
+                    {
+                        "label": "71",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route071.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Red Hill-Edinger",
+                "latLon": [
+                    33.721766766334014,
+                    -117.82691863904174
+                ],
+                "routes": [
+                    {
+                        "label": "71",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route071.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Red Hill-Edinger",
+                "latLon": [
+                    33.72130339164686,
+                    -117.82797286375978
+                ],
+                "routes": [
+                    {
+                        "label": "71",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route071.pdf?n=202308"
+                    },
+                    {
+                        "label": "472",
+                        "bg": "#cf1429",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route472.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Red Hill & Santa Fe",
+                "latLon": [
+                    33.71845885610197,
+                    -117.83029642201566
+                ],
+                "routes": [
+                    {
+                        "label": "71",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route071.pdf?n=202308"
+                    },
+                    {
+                        "label": "472",
+                        "bg": "#cf1429",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route472.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Red Hill & Santa Fe",
+                "latLon": [
+                    33.71848667754266,
+                    -117.83065428005055
+                ],
+                "routes": [
+                    {
+                        "label": "71",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route071.pdf?n=202308"
+                    },
+                    {
+                        "label": "472",
+                        "bg": "#cf1429",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route472.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Red Hill-Valencia Ave",
+                "latLon": [
+                    33.71701826459061,
+                    -117.83170228666592
+                ],
+                "routes": [
+                    {
+                        "label": "71",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route071.pdf?n=202308"
+                    },
+                    {
+                        "label": "472",
+                        "bg": "#cf1429",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route472.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Red Hill-Valencia",
+                "latLon": [
+                    33.7170383212202,
+                    -117.83214435164133
+                ],
+                "routes": [
+                    {
+                        "label": "71",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route071.pdf?n=202308"
+                    },
+                    {
+                        "label": "472",
+                        "bg": "#cf1429",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route472.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Edinger-Ritchey",
+                "latLon": [
+                    33.7268723041273,
+                    -117.84198060302481
+                ],
+                "routes": [
+                    {
+                        "label": "70",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route070.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Edinger-Ritchey",
+                "latLon": [
+                    33.72662496703821,
+                    -117.84102413516892
+                ],
+                "routes": [
+                    {
+                        "label": "70",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route070.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Edinger-Auto Mall",
+                "latLon": [
+                    33.726948952251924,
+                    -117.83771917601428
+                ],
+                "routes": [
+                    {
+                        "label": "70",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route070.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Edinger-Del Amo",
+                "latLon": [
+                    33.725111115458816,
+                    -117.83220597598088
+                ],
+                "routes": [
+                    {
+                        "label": "70",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route070.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Edinger-Del Amo",
+                "latLon": [
+                    33.72432741647867,
+                    -117.83168066918934
+                ],
+                "routes": [
+                    {
+                        "label": "70",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route070.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Edinger-Red Hill",
+                "latLon": [
+                    33.72226112213441,
+                    -117.82816164506346
+                ],
+                "routes": [
+                    {
+                        "label": "70",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route070.pdf?n=202308"
+                    }
+                ]
+            },
+            {
+                "name": "Edinger-Red Hill",
+                "latLon": [
+                    33.72119733020441,
+                    -117.82723683678198
+                ],
+                "routes": [
+                    {
+                        "label": "70",
+                        "bg": "#00aff2",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route070.pdf?n=202308"
+                    },
+                    {
+                        "label": "472",
+                        "bg": "#cf1429",
+                        "url": "https://octa.net/ebusbook/RoutePDF/route472.pdf?n=202308"
+                    }
+                ]
+            }
+        ]
+    }
+}

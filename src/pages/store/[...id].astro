@@ -1,0 +1,274 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import {
+  Leaflet,
+  CreateLeafletIcon,
+  Marker,
+  Popup,
+  Circle,
+} from "astro-leaflet";
+import { type CollectionEntry, getCollection } from "astro:content";
+import { ArrowLeft } from "@lucide/astro";
+
+export async function getStaticPaths() {
+  const stores = await getCollection("stores");
+  return stores.map((store) => ({
+    params: { id: store.id },
+    props: store,
+  }));
+}
+
+type Props = CollectionEntry<"stores">;
+
+const store = Astro.props;
+
+function getDistance(
+  latLon1: [number, number],
+  latLon2: [number, number],
+): number {
+  const RADIUS_IN_FEET = 20902231;
+  const toRad = (deg: number) => (deg * Math.PI) / 180;
+
+  const lat1 = latLon1[0];
+  const lon1 = latLon1[1];
+  const lat2 = latLon2[0];
+  const lon2 = latLon2[1];
+
+  const dLat = toRad(lat2 - lat1);
+  const dLon = toRad(lon2 - lon1);
+  const phi1 = toRad(lat1);
+  const phi2 = toRad(lat2);
+
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(phi1) * Math.cos(phi2) * Math.sin(dLon / 2) ** 2;
+
+  const clampedA = Math.max(0, Math.min(1, a));
+
+  const c = 2 * Math.atan2(Math.sqrt(clampedA), Math.sqrt(1 - clampedA));
+
+  return Math.round(RADIUS_IN_FEET * c);
+}
+
+const rapidStops = store.data.stops.rapid
+  ?.map((stop) => ({
+    distance: getDistance(store.data.latLon, stop.latLon),
+    ...stop,
+  }))
+  .sort((a, b) => a.distance - b.distance);
+
+const localStops = store.data.stops.local
+  ?.map((stop) => ({
+    distance: getDistance(store.data.latLon, stop.latLon),
+    ...stop,
+  }))
+  .sort((a, b) => a.distance - b.distance);
+---
+
+<BaseLayout title={store.data.name}>
+  <div class="pb-2">
+    <a
+      href="/"
+      class="text-black/50 dark:text-white/50 transition-colors duration-300 hover:text-black dark:hover:text-white hover:underline"
+    >
+      <ArrowLeft class="inline-block h-5 w-5" /> Back to all stores
+    </a>
+  </div>
+
+  <div class="pb-2">
+    <h1 class="font-special text-4xl font-bold pb-1">{store.data.name}</h1>
+    <p>{store.data.address}</p>
+  </div>
+
+  <CreateLeafletIcon
+    name="store"
+    options={{ className: "leaflet-icon-store", iconSize: [20, 20] }}
+  />
+  <CreateLeafletIcon
+    name="rapid-transit"
+    options={{ className: "leaflet-icon-rapid-transit", iconSize: [20, 20] }}
+  />
+  <CreateLeafletIcon
+    name="local-transit"
+    options={{ className: "leaflet-icon-local-transit", iconSize: [20, 20] }}
+  />
+
+  <div class="pb-2">
+    <Leaflet
+      options={{
+        tileByName: "Google&type=street&extra=transit",
+        center: store.data.latLon,
+        zoom: 15,
+      }}
+      class="rounded-xl"
+    >
+      <Marker
+        latlng={store.data.latLon}
+        options={{ title: "Store" }}
+        astroIconName="store"
+      >
+        <Popup
+          content={`<b>${store.data.name}</b><br/>${store.data.address}`}
+        />
+      </Marker>
+
+      {
+        store.data.debug === true ? (
+          <Circle
+            latlng={store.data.latLon}
+            options={{
+              color: "red",
+              fillColor: "#f03",
+              fillOpacity: 0.5,
+              radius: 1000,
+            }}
+          />
+        ) : (
+          <Circle
+            latlng={store.data.latLon}
+            options={{ color: "black", radius: 1000, fillOpacity: 0 }}
+          />
+        )
+      }
+
+      {
+        rapidStops?.map((stop) => (
+          <Marker
+            latlng={stop.latLon}
+            options={{ title: stop.name }}
+            astroIconName="rapid-transit"
+          >
+            <Popup
+              content={`<b>${stop.name}</b><br/>${stop.distance.toLocaleString()} ft away<hr style="margin-bottom: 0.25rem;"/><ul>${stop.routes
+                .map(
+                  (route) =>
+                    `<li style="margin-top: 0.25rem;"><a href="${route.url}" target="_blank" style="padding: 0.25rem; border-radius: 0.25rem; background: ${route.bg}; color: ${route.text ?? "white"};">${route.label}</a>${route.notes ? ` (${route.notes})` : ""}</li>`,
+                )
+                .toString()
+                .replaceAll(",", "")}</ul>`}
+            />
+          </Marker>
+        ))
+      }
+
+      {
+        localStops?.map((stop) => (
+          <Marker
+            latlng={stop.latLon}
+            options={{ title: stop.name }}
+            astroIconName="local-transit"
+          >
+            <Popup
+              content={`<b>${stop.name}</b><br/>${stop.distance.toLocaleString()} ft away<hr style="margin-bottom: 0.25rem;"/><ul style="display: flex; flex-wrap: wrap;">${stop.routes
+                .map(
+                  (route) =>
+                    `<li style="margin-right: 0.25rem;"><a href="${route.url}" target="_blank" style="padding: 0.25rem; border-radius: 0.25rem; background: ${route.bg}; color: ${route.text ?? "white"};">${route.label}</a>${route.notes ? ` (${route.notes})` : ""}</li>`,
+                )
+                .toString()
+                .replaceAll(",", "")}</ul>`}
+            />
+          </Marker>
+        ))
+      }
+    </Leaflet>
+  </div>
+
+  <div class="pb-2">
+    <h2 class="font-special text-3xl font-bold pb-1">
+      Nearby Rapid Transit Stops
+    </h2>
+
+    {
+      !rapidStops || rapidStops?.length === 0 ? (
+        <p>There are no local transit stops nearby this location.</p>
+      ) : (
+        <ul class="space-y-2">
+          {rapidStops.map((stop) => (
+            <li>
+              <div class="p-3 border border-black/50 dark:border-white/50 rounded-xl">
+                <p class="font-bold">{stop.name}</p>
+                <ul class="flex gap-1 flex-wrap">
+                  {stop.routes.map((route) => (
+                    <li>
+                      <a
+                        href={route.url}
+                        class="py-1 px-2 rounded-full"
+                        style={{
+                          background: route.bg,
+                          color: route.text ?? "white",
+                        }}
+                      >
+                        {route.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+                <p>{stop.distance.toLocaleString()} ft away</p>
+              </div>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </div>
+
+  <div class="pb-2">
+    <h2 class="font-special text-3xl font-bold pb-1">
+      Nearby Local Transit Stops
+    </h2>
+
+    {
+      !localStops || localStops?.length === 0 ? (
+        <p>There are no local transit stops nearby this location.</p>
+      ) : (
+        <ul class="space-y-2">
+          {localStops.map((stop) => (
+            <li>
+              <div class="p-3 border border-black/50 dark:border-white/50 rounded-xl">
+                <p class="font-bold">{stop.name}</p>
+                <ul class="flex gap-1 flex-wrap">
+                  {stop.routes.map((route) => (
+                    <li>
+                      <a
+                        href={route.url}
+                        class="py-1 px-2 rounded-full"
+                        style={{
+                          background: route.bg,
+                          color: route.text ?? "white",
+                        }}
+                      >
+                        {route.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+                <p>{stop.distance.toLocaleString()} ft away</p>
+              </div>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </div>
+</BaseLayout>
+
+<style is:global>
+  .leaflet-icon-store {
+    background: goldenrod;
+    border: 2px solid white;
+    filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.5));
+    border-radius: 50%;
+  }
+  .leaflet-icon-rapid-transit {
+    background: blueviolet;
+    border: 2px solid white;
+    filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.5));
+    border-radius: 50%;
+  }
+  .leaflet-icon-local-transit {
+    background: darkseagreen;
+    border: 2px solid white;
+    filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.5));
+    border-radius: 50%;
+  }
+</style>

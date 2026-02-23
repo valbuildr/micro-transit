@@ -1,0 +1,169 @@
+{
+    "name": "Santa Clara",
+    "url": "https://www.microcenter.com/site/stores/Santa-Clara.aspx",
+    "latLon": [
+        37.32399753499524,
+        -121.99366695049764
+    ],
+    "address": "5201 Stevens Creek Blvd, Santa Clara, CA 95051",
+    "stops": {
+        "local": [
+            {
+                "name": "Stevens Creek & Woodhams",
+                "latLon": [
+                    37.323248560696285,
+                    -121.98270525021287
+                ],
+                "routes": [
+                    {
+                        "label": "23",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/23"
+                    }
+                ]
+            },
+            {
+                "name": "Stevens Creek & Richfield",
+                "latLon": [
+                    37.32296628257129,
+                    -121.98410162856358
+                ],
+                "routes": [
+                    {
+                        "label": "23",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/23"
+                    }
+                ]
+            },
+            {
+                "name": "Stevens Creek & Cronin",
+                "latLon": [
+                    37.32322395381712,
+                    -121.98698040254651
+                ],
+                "routes": [
+                    {
+                        "label": "23",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/23"
+                    }
+                ]
+            },
+            {
+                "name": "Stevens Creek & Albany",
+                "latLon": [
+                    37.32295764502169,
+                    -121.98700010155014
+                ],
+                "routes": [
+                    {
+                        "label": "23",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/23"
+                    }
+                ]
+            },
+            {
+                "name": "Stevens Creek & Cabot",
+                "latLon": [
+                    37.3231970935271,
+                    -121.99182308144495
+                ],
+                "routes": [
+                    {
+                        "label": "23",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/23"
+                    },
+                    {
+                        "label": "Rapid 523",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/rapid-523"
+                    }
+                ]
+            },
+            {
+                "name": "Stevens Creek & Loma Linda",
+                "latLon": [
+                    37.32291753474597,
+                    -121.99275969046388
+                ],
+                "routes": [
+                    {
+                        "label": "23",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/23"
+                    },
+                    {
+                        "label": "Rapid 523",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/rapid-523"
+                    }
+                ]
+            },
+            {
+                "name": "Stevens Creek & I-280",
+                "latLon": [
+                    37.32288612705843,
+                    -121.99743904439755
+                ],
+                "routes": [
+                    {
+                        "label": "23",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/23"
+                    }
+                ]
+            },
+            {
+                "name": "Stevens Creek & I-280",
+                "latLon": [
+                    37.32312554521301,
+                    -122.0024066625803
+                ],
+                "routes": [
+                    {
+                        "label": "23",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/23"
+                    },
+                    {
+                        "label": "Express 101",
+                        "bg": "#379400",
+                        "url": "https://www.vta.org/go/routes/express-101"
+                    },
+                    {
+                        "label": "Rapid 523",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/rapid-523"
+                    }
+                ]
+            },
+            {
+                "name": "Stevens Creek & Stern",
+                "latLon": [
+                    37.322866973580794,
+                    -122.00299675547508
+                ],
+                "routes": [
+                    {
+                        "label": "23",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/23"
+                    },
+                    {
+                        "label": "Express 101",
+                        "bg": "#379400",
+                        "url": "https://www.vta.org/go/routes/express-101"
+                    },
+                    {
+                        "label": "Rapid 523",
+                        "bg": "#e4002b",
+                        "url": "https://www.vta.org/go/routes/rapid-523"
+                    }
+                ]
+            }
+        ]
+    }
+}

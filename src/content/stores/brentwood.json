@@ -1,0 +1,316 @@
+{
+    "name": "Brentwood",
+    "url": "https://www.microcenter.com/site/stores/Brentwood.aspx",
+    "latLon": [
+        38.62617700000001,
+        -90.34322518650664
+    ],
+    "address": "87 Brentwood Promenade Ct, Brentwood, MO 63144",
+    "stops": {
+        "rapid": [
+            {
+                "name": "Brentwood I-64",
+                "latLon": [
+                    38.628423272715075,
+                    -90.33794659941432
+                ],
+                "routes": [
+                    {
+                        "label": "Blue",
+                        "bg": "#001d58",
+                        "url": "https://www.metrostlouis.org/metrolink-system-schedule/"
+                    }
+                ]
+            },
+            {
+                "name": "Richmond Heights",
+                "latLon": [
+                    38.634868205256105,
+                    -90.34211335622852
+                ],
+                "routes": [
+                    {
+                        "label": "Blue",
+                        "bg": "#001d58",
+                        "url": "https://www.metrostlouis.org/metrolink-system-schedule/"
+                    }
+                ]
+            }
+        ],
+        "local": [
+            {
+                "name": "Brentwood I-64 Transit Center",
+                "latLon": [
+                    38.627800709153256,
+                    -90.33786149083102
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    },
+                    {
+                        "label": "31",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/31-chouteau/"
+                    }
+                ]
+            },
+            {
+                "name": "Hanley @ Elinor NB",
+                "latLon": [
+                    38.62491390746429,
+                    -90.33492008910716
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    },
+                    {
+                        "label": "31",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/31-chouteau/"
+                    }
+                ]
+            },
+            {
+                "name": "1270 Strassner EB",
+                "latLon": [
+                    38.62264377624957,
+                    -90.3359045948176
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Strassner @ Hanley Industrial Court EB",
+                "latLon": [
+                    38.62241974625544,
+                    -90.33881031987353
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "1432 Strassner EB",
+                "latLon": [
+                    38.62324865373799,
+                    -90.34152487880736
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Strassner @ Brentwood Park EB",
+                "latLon": [
+                    38.62406261664978,
+                    -90.34519526867446
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Strassner @ Urban EB",
+                "latLon": [
+                    38.624096912251126,
+                    -90.34655722720598
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Hanley @ Elinor SB",
+                "latLon": [
+                    38.62482429834079,
+                    -90.33511125522244
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    },
+                    {
+                        "label": "31",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/31-chouteau/"
+                    }
+                ]
+            },
+            {
+                "name": "1271 Strassner WB",
+                "latLon": [
+                    38.622846511087474,
+                    -90.33611996446466
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Strassner @ Hanley Industrial Court WB",
+                "latLon": [
+                    38.62257828225999,
+                    -90.3388129021886
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "1443 Strassner WB",
+                "latLon": [
+                    38.62350031465804,
+                    -90.34185989157989
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Strassner @ Brentwood Park WB",
+                "latLon": [
+                    38.62416249425312,
+                    -90.34520728850937
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Strassner @ Urban WB",
+                "latLon": [
+                    38.624187640190094,
+                    -90.34645183346548
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Brentwood @ Rose NB",
+                "latLon": [
+                    38.62618252330773,
+                    -90.34648401997212
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Brentwood @ Eager SB",
+                "latLon": [
+                    38.628805961662685,
+                    -90.346462562425
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Brentwood @ Darst NB",
+                "latLon": [
+                    38.633520137592434,
+                    -90.3458447523687
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            },
+            {
+                "name": "Brentwood @ Darst SB",
+                "latLon": [
+                    38.63426603273314,
+                    -90.34600568493798
+                ],
+                "routes": [
+                    {
+                        "label": "2",
+                        "bg": "#e1e1e1",
+                        "text": "black",
+                        "url": "https://www.metrostlouis.org/route/2-red/"
+                    }
+                ]
+            }
+        ]
+    }
+}

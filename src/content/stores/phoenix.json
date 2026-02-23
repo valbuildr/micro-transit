@@ -1,0 +1,251 @@
+{
+    "name": "Phoenix",
+    "url": "https://www.microcenter.com/site/stores/phoenix.aspx",
+    "latLon": [
+        33.47568984358929,
+        -111.98411656732222
+    ],
+    "address": "4531 E Thomas Rd, Phoenix, AZ 85018",
+    "stops": {
+        "local": [
+            {
+                "name": "Thomas Rd & 48th St",
+                "latLon": [
+                    33.479962888230105,
+                    -111.97740172852954
+                ],
+                "routes": [
+                    {
+                        "label": "29",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/29"
+                    }
+                ]
+            },
+            {
+                "name": "Thomas Rd & 47th Pl",
+                "latLon": [
+                    33.48021066524822,
+                    -111.97941344606782
+                ],
+                "routes": [
+                    {
+                        "label": "29",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/29"
+                    }
+                ]
+            },
+            {
+                "name": "Thomas Rd & 46th St",
+                "latLon": [
+                    33.48030010750984,
+                    -111.98298539018718
+                ],
+                "routes": [
+                    {
+                        "label": "29",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/29"
+                    }
+                ]
+            },
+            {
+                "name": "Thomas Rd & 45th St",
+                "latLon": [
+                    33.48004402774627,
+                    -111.98427126687389
+                ],
+                "routes": [
+                    {
+                        "label": "29",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/29"
+                    }
+                ]
+            },
+            {
+                "name": "Thomas Rd & 44th St",
+                "latLon": [
+                    33.48010716989909,
+                    -111.98631785959716
+                ],
+                "routes": [
+                    {
+                        "label": "29",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/29"
+                    }
+                ]
+            },
+            {
+                "name": "44th St & Earll Dr",
+                "latLon": [
+                    33.48395210107714,
+                    -111.98709919011519
+                ],
+                "routes": [
+                    {
+                        "label": "44",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/44"
+                    }
+                ]
+            },
+            {
+                "name": "44th St & Thomas Rd",
+                "latLon": [
+                    33.48081479139148,
+                    -111.98681410884863
+                ],
+                "routes": [
+                    {
+                        "label": "44",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/44"
+                    }
+                ]
+            },
+            {
+                "name": "44th St & Thomas Rd",
+                "latLon": [
+                    33.47919190976412,
+                    -111.98720325248829
+                ],
+                "routes": [
+                    {
+                        "label": "44",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/44"
+                    }
+                ]
+            },
+            {
+                "name": "44th St & Wilshire Dr",
+                "latLon": [
+                    33.477074136531606,
+                    -111.98683962647418
+                ],
+                "routes": [
+                    {
+                        "label": "44",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/44"
+                    }
+                ]
+            },
+            {
+                "name": "44th St & Wilshire Dr",
+                "latLon": [
+                    33.47628128852876,
+                    -111.98720963190917
+                ],
+                "routes": [
+                    {
+                        "label": "44",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/44"
+                    }
+                ]
+            },
+            {
+                "name": "44th St & Oak St",
+                "latLon": [
+                    33.47336524816968,
+                    -111.98689704112506
+                ],
+                "routes": [
+                    {
+                        "label": "44",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/44"
+                    }
+                ]
+            },
+            {
+                "name": "44th St & Oak St",
+                "latLon": [
+                    33.472408050497016,
+                    -111.9872121794627
+                ],
+                "routes": [
+                    {
+                        "label": "44",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/44"
+                    }
+                ]
+            },
+            {
+                "name": "44th St & Palm Ln",
+                "latLon": [
+                    33.46958448115639,
+                    -111.98690987980704
+                ],
+                "routes": [
+                    {
+                        "label": "44",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/44"
+                    }
+                ]
+            },
+            {
+                "name": "44th St & Palm Ln",
+                "latLon": [
+                    33.46900199757204,
+                    -111.98721217945548
+                ],
+                "routes": [
+                    {
+                        "label": "44",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/44"
+                    }
+                ]
+            },
+            {
+                "name": "Thomas Rd & 44th St",
+                "latLon": [
+                    33.48038580630486,
+                    -111.9876439482386
+                ],
+                "routes": [
+                    {
+                        "label": "29",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/29"
+                    }
+                ]
+            },
+            {
+                "name": "Thomas Rd & 42nd St",
+                "latLon": [
+                    33.480250831153036,
+                    -111.9908450526656
+                ],
+                "routes": [
+                    {
+                        "label": "29",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/29"
+                    }
+                ]
+            },
+            {
+                "name": "Thomas Rd & 42nd St",
+                "latLon": [
+                    33.480475447376236,
+                    -111.99161580727655
+                ],
+                "routes": [
+                    {
+                        "label": "29",
+                        "bg": "#591769",
+                        "url": "https://www.valleymetro.org/maps-schedules/29"
+                    }
+                ]
+            }
+        ]
+    }
+}

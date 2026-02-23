@@ -1,0 +1,242 @@
+{
+    "name": "Mayfield Heights",
+    "url": "https://www.microcenter.com/site/stores/Mayfield-Heights.aspx",
+    "latLon": [
+        41.523888610572904,
+        -81.43739237301462
+    ],
+    "address": "1349 SOM Ctr Rd, Mayfield Heights, OH 44124",
+    "stops": {
+        "local": [
+            {
+                "name": "Som Center Rd & Ridgebury Blvd",
+                "latLon": [
+                    41.530650879910084,
+                    -81.4389181944396
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "Som Center Rd & Ridgebury Blvd",
+                "latLon": [
+                    41.52993219113337,
+                    -81.43866775000923
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "Som Center Rd & Vallevista Dr",
+                "latLon": [
+                    41.527462559059025,
+                    -81.43879119958224
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "Som Center Rd & Drury Ln",
+                "latLon": [
+                    41.52700215923517,
+                    -81.43858273143934
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "Som Center Rd & Queens Park Av",
+                "latLon": [
+                    41.52536342137009,
+                    -81.43885374000544
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "Som Center Rd & Queens Park Av",
+                "latLon": [
+                    41.52522295619705,
+                    -81.43862442504826
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "Som Center Rd & Maplewood Rd",
+                "latLon": [
+                    41.524130438886345,
+                    -81.43885374000544
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "Som Center Rd & Maplewood Rd",
+                "latLon": [
+                    41.523576369486186,
+                    -81.43863484845541
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "1400 Som Center Rd (Key Bank)",
+                "latLon": [
+                    41.52198436898581,
+                    -81.43883289320185
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "1424 Som Center Rd",
+                "latLon": [
+                    41.5219219367975,
+                    -81.43863484846611
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "Som Center Rd & Mayfield Rd",
+                "latLon": [
+                    41.51978467161697,
+                    -81.43857141852108
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    }
+                ]
+            },
+            {
+                "name": "Som Center Rd & Mayfield Rd (Layover)",
+                "latLon": [
+                    41.519074477780826,
+                    -81.4387903100711
+                ],
+                "routes": [
+                    {
+                        "label": "7-7A",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/7-7a"
+                    },
+                    {
+                        "label": "9",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/9"
+                    }
+                ]
+            },
+            {
+                "name": "Mayfield Rd & Som Center Rd",
+                "latLon": [
+                    41.51997197416502,
+                    -81.4396033358005
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/9"
+                    }
+                ]
+            },
+            {
+                "name": "Mayfield Rd & Som Center Rd",
+                "latLon": [
+                    41.52029194813487,
+                    -81.43979095712912
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/9"
+                    }
+                ]
+            },
+            {
+                "name": "Mayfield Rd & Parker Dr",
+                "latLon": [
+                    41.519971974178326,
+                    -81.44171928753406
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/9"
+                    }
+                ]
+            },
+            {
+                "name": "Mayfield Rd & Parker Dr",
+                "latLon": [
+                    41.52029194814818,
+                    -81.44199029611981
+                ],
+                "routes": [
+                    {
+                        "label": "9",
+                        "bg": "#062743",
+                        "url": "https://www.riderta.com/routes/9"
+                    }
+                ]
+            }
+        ]
+    }
+}

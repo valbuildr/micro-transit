@@ -1,0 +1,54 @@
+---
+import "@/styles/global.css";
+import type { HTMLAttributes } from "astro/types";
+
+type Props = {
+  title: string;
+  class?: string;
+} & HTMLAttributes<"body">;
+
+const { title, class: customClass, ...restProps } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title} - Micro Transit</title>
+  </head>
+  <body
+    class:list={[
+      "container mx-auto p-4 space-y-2 divide-y bg-white text-black dark:bg-zinc-800 dark:text-white divide-black/50 dark:divide-white/50",
+      customClass,
+    ]}
+    {...restProps}
+  >
+    <slot />
+
+    <footer class="border-t border-black/50 dark:border-white/50 py-2">
+      <p class="font-bold">
+        Made with ❤️ by <a
+          href="https://valbuilds.xyz"
+          target="_blank"
+          class="text-blue-700 dark:text-blue-400 hover:underline">valbuilds</a
+        >. 🏳️‍⚧️
+      </p>
+      <p>
+        Information could be incorrect, check official sources for the most up
+        to date information. If anything is incorrect or out of date, please <a
+          href="https://github.com/valbuilds/micro-transit/issues"
+          target="_blank"
+          class="text-blue-700 dark:text-blue-400 hover:underline"
+          >open an issue on Github</a
+        >,
+      </p>
+      <p>
+        This project is not affiliated in any way with Micro Center or any
+        listed transit agencies.
+      </p>
+    </footer>
+  </body>
+</html>

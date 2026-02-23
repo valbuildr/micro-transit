@@ -1,0 +1,557 @@
+{
+    "name": "Brooklyn",
+    "url": "https://www.microcenter.com/site/stores/Brooklyn.aspx",
+    "latLon": [
+        40.65872572212869,
+        -74.00398181349334
+    ],
+    "address": "850 3rd Ave, Brooklyn, NY 11232",
+    "stops": {
+        "rapid": [
+            {
+                "name": "25 St",
+                "latLon": [
+                    40.660451154382365,
+                    -73.99801658092558
+                ],
+                "routes": [
+                    {
+                        "label": "R",
+                        "bg": "#ffd403",
+                        "text": "black",
+                        "url": "https://www.mta.info/schedules/subway/r-train"
+                    }
+                ]
+            },
+            {
+                "name": "36 St",
+                "latLon": [
+                    40.654460783002634,
+                    -74.00421784787551
+                ],
+                "routes": [
+                    {
+                        "label": "R",
+                        "bg": "#ffd403",
+                        "text": "black",
+                        "url": "https://www.mta.info/schedules/subway/r-train"
+                    },
+                    {
+                        "label": "N",
+                        "bg": "#ffd403",
+                        "text": "black",
+                        "url": "https://www.mta.info/schedules/subway/n-train"
+                    },
+                    {
+                        "label": "D",
+                        "bg": "#f48820",
+                        "url": "https://www.mta.info/schedules/subway/d-train"
+                    }
+                ]
+            }
+        ],
+        "local": [
+            {
+                "name": "3 Av/20 St",
+                "latLon": [
+                    40.664598187527595,
+                    -73.99665186682289
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/23 St",
+                "latLon": [
+                    40.66316663781975,
+                    -73.99815813012735
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/30 St",
+                "latLon": [
+                    40.6589855081791,
+                    -74.00245146915692
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/34 St",
+                "latLon": [
+                    40.65670610141579,
+                    -74.0048820222095
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/37 St",
+                "latLon": [
+                    40.65503088585181,
+                    -74.00660894277235
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/39 St",
+                "latLon": [
+                    40.65366123414896,
+                    -74.00804430873721
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/41 St",
+                "latLon": [
+                    40.65248999023564,
+                    -74.00917346336803
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/42 St",
+                "latLon": [
+                    40.652272194685104,
+                    -74.00942863953009
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/39 St",
+                "latLon": [
+                    40.65372528318754,
+                    -74.00866039327005
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/37 St",
+                "latLon": [
+                    40.65516592855946,
+                    -74.0071744414837
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    },
+                    {
+                        "label": "B70",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b70"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/33 St",
+                "latLon": [
+                    40.65712980758149,
+                    -74.0051307255436
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/29 St",
+                "latLon": [
+                    40.65933520664787,
+                    -74.00280097538942
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/25 St",
+                "latLon": [
+                    40.662031494480004,
+                    -73.99996014869014
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "3 Av/21 St",
+                "latLon": [
+                    40.66411899564604,
+                    -73.99776610175918
+                ],
+                "routes": [
+                    {
+                        "label": "B37",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b37"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/36 St",
+                "latLon": [
+                    40.65316871978479,
+                    -74.00182432897846
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/34 St",
+                "latLon": [
+                    40.65436540313866,
+                    -74.00055931438156
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/30 St",
+                "latLon": [
+                    40.65662245543799,
+                    -73.99824402525174
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/26 St",
+                "latLon": [
+                    40.658840927189615,
+                    -73.99591702298127
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/24 St",
+                "latLon": [
+                    40.65983610550982,
+                    -73.9948550353659
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/21 St",
+                "latLon": [
+                    40.66113959848789,
+                    -73.99375892754725
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/24 St",
+                "latLon": [
+                    40.65954911429991,
+                    -73.99542218750248
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/26 St",
+                "latLon": [
+                    40.658284400543685,
+                    -73.9967145326836
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/30 St",
+                "latLon": [
+                    40.65610441609035,
+                    -73.99899858692298
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/33 St",
+                "latLon": [
+                    40.65440717777478,
+                    -74.00073602991971
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/33 St",
+                "latLon": [
+                    40.65440717777478,
+                    -74.00073602991971
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/37 St",
+                "latLon": [
+                    40.652282240259154,
+                    -74.00293348118825
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "5 Av/39 St",
+                "latLon": [
+                    40.651138839210965,
+                    -74.00421411332887
+                ],
+                "routes": [
+                    {
+                        "label": "B63",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b63"
+                    }
+                ]
+            },
+            {
+                "name": "39 St/6 Av",
+                "latLon": [
+                    40.650333114779485,
+                    -74.00225412151278
+                ],
+                "routes": [
+                    {
+                        "label": "B35",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b35"
+                    },
+                    {
+                        "label": "B70",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b75"
+                    }
+                ]
+            },
+            {
+                "name": "39 St/5 Av",
+                "latLon": [
+                    40.65123066746433,
+                    -74.00376901557308
+                ],
+                "routes": [
+                    {
+                        "label": "B35",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b35"
+                    },
+                    {
+                        "label": "B70",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b75"
+                    }
+                ]
+            },
+            {
+                "name": "39 St/5 Av",
+                "latLon": [
+                    40.65288947893129,
+                    -74.0065294024491
+                ],
+                "routes": [
+                    {
+                        "label": "B35",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b35"
+                    }
+                ]
+            },
+            {
+                "name": "39 St/3 Av",
+                "latLon": [
+                    40.65370004019424,
+                    -74.00786274398206
+                ],
+                "routes": [
+                    {
+                        "label": "B35",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b35"
+                    }
+                ]
+            },
+            {
+                "name": "39 St/3 Av",
+                "latLon": [
+                    40.65397149428348,
+                    -74.00849941188297
+                ],
+                "routes": [
+                    {
+                        "label": "B70",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b70"
+                    }
+                ]
+            },
+            {
+                "name": "39 St/4 Av",
+                "latLon": [
+                    40.6523114270962,
+                    -74.0057211813134
+                ],
+                "routes": [
+                    {
+                        "label": "B35",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b35"
+                    },
+                    {
+                        "label": "B70",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b70"
+                    }
+                ]
+            },
+            {
+                "name": "39 St/5 Av",
+                "latLon": [
+                    40.651328918891686,
+                    -74.0041231405301
+                ],
+                "routes": [
+                    {
+                        "label": "B35",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b35"
+                    },
+                    {
+                        "label": "B70",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/b70"
+                    }
+                ]
+            }
+        ]
+    }
+}

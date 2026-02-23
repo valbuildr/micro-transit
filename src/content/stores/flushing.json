@@ -1,0 +1,717 @@
+{
+    "name": "Flushing",
+    "url": "https://www.microcenter.com/site/stores/Flushing.aspx",
+    "latLon": [
+        40.728989217869916,
+        -73.81482227116445
+    ],
+    "address": "71-43 Kissena Blvd, Kew Gardens Hills, NY 11367",
+    "stops": {
+        "local": [
+            {
+                "name": "164 St/69 Av",
+                "latLon": [
+                    40.73298989301879,
+                    -73.805197036368
+                ],
+                "routes": [
+                    {
+                        "label": "QM4",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm4"
+                    },
+                    {
+                        "label": "QM44",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm44"
+                    }
+                ]
+            },
+            {
+                "name": "164 St/Jewel Av",
+                "latLon": [
+                    40.7320239339957,
+                    -73.80491179446847
+                ],
+                "routes": [
+                    {
+                        "label": "Q65",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q65"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    }
+                ]
+            },
+            {
+                "name": "164 St/Jewel Av",
+                "latLon": [
+                    40.73189551224072,
+                    -73.80524841922326
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "Q65",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q65"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    }
+                ]
+            },
+            {
+                "name": "164 St/71 Av",
+                "latLon": [
+                    40.730420601739894,
+                    -73.80535443127776
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    }
+                ]
+            },
+            {
+                "name": "164 St/73 Av",
+                "latLon": [
+                    40.72767271792067,
+                    -73.8053268341136
+                ],
+                "routes": [
+                    {
+                        "label": "Q65",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q65"
+                    }
+                ]
+            },
+            {
+                "name": "164 St/75 Av",
+                "latLon": [
+                    40.72726631480768,
+                    -73.80491127665769
+                ],
+                "routes": [
+                    {
+                        "label": "Q65",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q65"
+                    }
+                ]
+            },
+            {
+                "name": "164 St/77 Av",
+                "latLon": [
+                    40.72455058285989,
+                    -73.80461975201874
+                ],
+                "routes": [
+                    {
+                        "label": "Q65",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q65"
+                    }
+                ]
+            },
+            {
+                "name": "164 St/77 Av",
+                "latLon": [
+                    40.72442918428713,
+                    -73.8050167370744
+                ],
+                "routes": [
+                    {
+                        "label": "Q65",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q65"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/Queens College",
+                "latLon": [
+                    40.73637789047861,
+                    -73.81451665483134
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/Queens College",
+                "latLon": [
+                    40.735626726001136,
+                    -73.81486101591663
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/Melbourne Av",
+                "latLon": [
+                    40.73395041256423,
+                    -73.81462100668718
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/Melbourne Av",
+                "latLon": [
+                    40.73358667860914,
+                    -73.81498275974594
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/Jewel Av",
+                "latLon": [
+                    40.73244929173269,
+                    -73.81475762620991
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/Jewel Av",
+                "latLon": [
+                    40.731703996755456,
+                    -73.81505566811111
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/71 Ave",
+                "latLon": [
+                    40.72906621063845,
+                    -73.81528772758023
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/Aguilar Av",
+                "latLon": [
+                    40.72799591847663,
+                    -73.81400937317814
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/73 Ave",
+                "latLon": [
+                    40.72700360731139,
+                    -73.81233137846527
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Kissena Blvd/75 Av",
+                "latLon": [
+                    40.726658356881494,
+                    -73.81125842762098
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Parsons Blvd/76 Rd",
+                "latLon": [
+                    40.72425990975264,
+                    -73.81066396947955
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Parsons Blvd/77 Av",
+                "latLon": [
+                    40.72392023192451,
+                    -73.81036169067848
+                ],
+                "routes": [
+                    {
+                        "label": "Q25",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q25"
+                    }
+                ]
+            },
+            {
+                "name": "Parsons Blvd/Jewel Av",
+                "latLon": [
+                    40.73214630959768,
+                    -73.81091361464155
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    }
+                ]
+            },
+            {
+                "name": "71 Ave/Parsons Blvd",
+                "latLon": [
+                    40.73025782074902,
+                    -73.80994321574798
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Av/140 St",
+                "latLon": [
+                    40.72948396549687,
+                    -73.82575325668543
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Av/140 St",
+                "latLon": [
+                    40.7295205518258,
+                    -73.82496468724005
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Av/Main St",
+                "latLon": [
+                    40.73001243273872,
+                    -73.82384888828659
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    },
+                    {
+                        "label": "QM4",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm4"
+                    },
+                    {
+                        "label": "QM44",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm44"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Av/Main St",
+                "latLon": [
+                    40.730044953662684,
+                    -73.82313005627515
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Av/150 St",
+                "latLon": [
+                    40.73141673114671,
+                    -73.81913035048638
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    },
+                    {
+                        "label": "QM4",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm4"
+                    },
+                    {
+                        "label": "QM44",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm44"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Ave/150 St",
+                "latLon": [
+                    40.7313237442504,
+                    -73.81880166277934
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Av/Kissena Blvd",
+                "latLon": [
+                    40.73212661101824,
+                    -73.81524811106571
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    },
+                    {
+                        "label": "QM4",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm4"
+                    },
+                    {
+                        "label": "QM44",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm44"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Ave/Kissena Blvd",
+                "latLon": [
+                    40.73192735535004,
+                    -73.81464332568473
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Av/Parsons Blvd",
+                "latLon": [
+                    40.73246399171718,
+                    -73.81106899802143
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    },
+                    {
+                        "label": "QM4",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm4"
+                    },
+                    {
+                        "label": "QM44",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm44"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Ave/Parsons Blvd",
+                "latLon": [
+                    40.73222156513812,
+                    -73.81051242017084
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "Q74",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q74"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Av/161 St",
+                "latLon": [
+                    40.73209520663018,
+                    -73.80814677940668
+                ],
+                "routes": [
+                    {
+                        "label": "Q64",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q64"
+                    },
+                    {
+                        "label": "QM4",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm4"
+                    },
+                    {
+                        "label": "QM44",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/qm44"
+                    }
+                ]
+            },
+            {
+                "name": "Main St/Jewel Av",
+                "latLon": [
+                    40.730091491426045,
+                    -73.82365112716057
+                ],
+                "routes": [
+                    {
+                        "label": "Q20",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q20"
+                    },
+                    {
+                        "label": "Q44+",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q44-sbs"
+                    }
+                ]
+            },
+            {
+                "name": "Main St/Jewel Av",
+                "latLon": [
+                    40.7299344398467,
+                    -73.82328547699362
+                ],
+                "routes": [
+                    {
+                        "label": "Q20",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q20"
+                    },
+                    {
+                        "label": "Q44+",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q44-sbs"
+                    }
+                ]
+            },
+            {
+                "name": "Main St/72 Av",
+                "latLon": [
+                    40.72701735568344,
+                    -73.8217889193244
+                ],
+                "routes": [
+                    {
+                        "label": "Q20",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q20"
+                    }
+                ]
+            },
+            {
+                "name": "Main St/72 Av",
+                "latLon": [
+                    40.726359759225055,
+                    -73.82172756428577
+                ],
+                "routes": [
+                    {
+                        "label": "Q20",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q20"
+                    }
+                ]
+            },
+            {
+                "name": "Main St/73 Av",
+                "latLon": [
+                    40.724986771075436,
+                    -73.82075228624095
+                ],
+                "routes": [
+                    {
+                        "label": "Q20",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q20"
+                    },
+                    {
+                        "label": "Q44+",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q44-sbs"
+                    }
+                ]
+            },
+            {
+                "name": "Main St/75 Av",
+                "latLon": [
+                    40.72408642158683,
+                    -73.8205768072033
+                ],
+                "routes": [
+                    {
+                        "label": "Q20",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q20"
+                    },
+                    {
+                        "label": "Q44+",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q44-sbs"
+                    }
+                ]
+            },
+            {
+                "name": "Main St/76 Av",
+                "latLon": [
+                    40.72231021470697,
+                    -73.8196344950146
+                ],
+                "routes": [
+                    {
+                        "label": "Q20",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q20"
+                    }
+                ]
+            },
+            {
+                "name": "Main St/77 Av",
+                "latLon": [
+                    40.72100514846421,
+                    -73.81870108627807
+                ],
+                "routes": [
+                    {
+                        "label": "Q20",
+                        "bg": "#1d59b3",
+                        "url": "https://www.mta.info/schedules/bus/q20"
+                    }
+                ]
+            }
+        ]
+    }
+}

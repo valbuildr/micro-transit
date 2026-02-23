@@ -1,0 +1,452 @@
+{
+    "name": "St. Louis Park",
+    "url": "https://www.microcenter.com/site/stores/St-Louis-Park.aspx",
+    "latLon": [
+        44.936078620441734,
+        -93.35200372883556
+    ],
+    "address": "3710 MN-100, St Louis Park, MN 55416",
+    "stops": {
+        "local": [
+            {
+                "name": "Delk Rd at Bentley Rd",
+                "latLon": [
+                    44.93701871823812,
+                    -93.33994910708292
+                ],
+                "routes": [
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "36th St W & Beltline Blvd",
+                "latLon": [
+                    44.9377291615445,
+                    -93.3421666340993
+                ],
+                "routes": [
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "36th St W & Raleigh Ave",
+                "latLon": [
+                    44.93774269371264,
+                    -93.34439371942177
+                ],
+                "routes": [
+                    {
+                        "label": "17W",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/17"
+                    },
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "36th St W & Park Center Blvd",
+                "latLon": [
+                    44.93774945979267,
+                    -93.3460186318406
+                ],
+                "routes": [
+                    {
+                        "label": "17W",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/17"
+                    },
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "36th St W & Wooddale/Yosemite Ave S",
+                "latLon": [
+                    44.93771562937033,
+                    -93.35328294448043
+                ],
+                "routes": [
+                    {
+                        "label": "17W",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/17"
+                    },
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "36th St W & Beltline Blvd",
+                "latLon": [
+                    44.93794384724978,
+                    -93.34244906347425
+                ],
+                "routes": [
+                    {
+                        "label": "17F",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/17"
+                    }
+                ]
+            },
+            {
+                "name": "36th St W & Raleigh Ave/Park Center Blvd",
+                "latLon": [
+                    44.93797767753768,
+                    -93.3450202478165
+                ],
+                "routes": [
+                    {
+                        "label": "17F",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/17"
+                    }
+                ]
+            },
+            {
+                "name": "36th St W & Park Center Blvd",
+                "latLon": [
+                    44.93799797570087,
+                    -93.34605254487585
+                ],
+                "routes": [
+                    {
+                        "label": "17F",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/17"
+                    },
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "36th St W & Yosemite Ave",
+                "latLon": [
+                    44.93786265448742,
+                    -93.35287717574187
+                ],
+                "routes": [
+                    {
+                        "label": "17F",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/17"
+                    },
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "36th St W & Wooddale Ave",
+                "latLon": [
+                    44.93790325088987,
+                    -93.35465502079504
+                ],
+                "routes": [
+                    {
+                        "label": "17F",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/17"
+                    },
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "Brunswick Ave & 37th St W",
+                "latLon": [
+                    44.937030421947824,
+                    -93.35768500392592
+                ],
+                "routes": [
+                    {
+                        "label": "17W",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/17"
+                    }
+                ]
+            },
+            {
+                "name": "Park Center Blvd & Auto Club Way",
+                "latLon": [
+                    44.93282419737039,
+                    -93.34933878266814
+                ],
+                "routes": [
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "Park Center Blvd & Byerly Foods",
+                "latLon": [
+                    44.93566612545898,
+                    -93.34769475408169
+                ],
+                "routes": [
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "Park Center Blvd & #3663",
+                "latLon": [
+                    44.93670813054995,
+                    -93.34548678534529
+                ],
+                "routes": [
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Alabama Ave S",
+                "latLon": [
+                    44.928607889130674,
+                    -93.3555962248848
+                ],
+                "routes": [
+                    {
+                        "label": "38G",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Yosemite Ave",
+                "latLon": [
+                    44.92926429985928,
+                    -93.3534742809295
+                ],
+                "routes": [
+                    {
+                        "label": "38G",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Wooddale Ave",
+                "latLon": [
+                    44.931071082425895,
+                    -93.34794002152792
+                ],
+                "routes": [
+                    {
+                        "label": "38G",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Park Nicollet Blvd",
+                "latLon": [
+                    44.93174099860383,
+                    -93.34567470285478
+                ],
+                "routes": [
+                    {
+                        "label": "38G",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    },
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Quentin Ave",
+                "latLon": [
+                    44.93247180732198,
+                    -93.34307484359421
+                ],
+                "routes": [
+                    {
+                        "label": "38G",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    },
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Grand Way",
+                "latLon": [
+                    44.933229673232084,
+                    -93.34060880048342
+                ],
+                "routes": [
+                    {
+                        "label": "38G",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    },
+                    {
+                        "label": "615",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/615"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Natchez Ave",
+                "latLon": [
+                    44.933134940543354,
+                    -93.3401595600965
+                ],
+                "routes": [
+                    {
+                        "label": "38C",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    },
+                    {
+                        "label": "38H",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Quentin Ave",
+                "latLon": [
+                    44.932126704388764,
+                    -93.3433807092539
+                ],
+                "routes": [
+                    {
+                        "label": "38C",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    },
+                    {
+                        "label": "38H",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Park Nicollet Blvd",
+                "latLon": [
+                    44.93150416047483,
+                    -93.34563646949469
+                ],
+                "routes": [
+                    {
+                        "label": "38C",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    },
+                    {
+                        "label": "38H",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Wooddale Ave",
+                "latLon": [
+                    44.93080717392664,
+                    -93.34782532176804
+                ],
+                "routes": [
+                    {
+                        "label": "38C",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    },
+                    {
+                        "label": "38H",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Yosemite Ave",
+                "latLon": [
+                    44.92908835546802,
+                    -93.3533500228239
+                ],
+                "routes": [
+                    {
+                        "label": "38C",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    },
+                    {
+                        "label": "38H",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    }
+                ]
+            },
+            {
+                "name": "Excelsior Blvd & Brookside Ave",
+                "latLon": [
+                    44.92845901144358,
+                    -93.3552330091266
+                ],
+                "routes": [
+                    {
+                        "label": "38C",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    },
+                    {
+                        "label": "38H",
+                        "bg": "#0053a0",
+                        "url": "https://www.metrotransit.org/route/38"
+                    }
+                ]
+            }
+        ]
+    }
+}

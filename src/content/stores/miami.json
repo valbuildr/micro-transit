@@ -1,0 +1,398 @@
+{
+    "name": "Miami",
+    "url": "https://www.microcenter.com/site/stores/Miami.aspx",
+    "latLon": [
+        25.772297697603957,
+        -80.3222772277059
+    ],
+    "address": "7795 W Flagler St ste m31, Miami, FL 33144",
+    "stops": {
+        "local": [
+            {
+                "name": "NW 7 St & NW 82 Av",
+                "latLon": [
+                    25.77681042916978,
+                    -80.32879148628389
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 7 St & NW 82 Av",
+                "latLon": [
+                    25.776662530385313,
+                    -80.32869851935739
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 7 St & # 8125",
+                "latLon": [
+                    25.776858148032243,
+                    -80.327208792972
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 7 St & # 8000",
+                "latLon": [
+                    25.776694190927913,
+                    -80.32666256979593
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 7 St & # 8045",
+                "latLon": [
+                    25.77688835689122,
+                    -80.32524497111287
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 79 Av & # 600 (Bell South)",
+                "latLon": [
+                    25.77498594721429,
+                    -80.32445222349091
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 79 Av & NW 5 St",
+                "latLon": [
+                    25.774899551501218,
+                    -80.32420520952428
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 79 Av & # 444",
+                "latLon": [
+                    25.77356132756007,
+                    -80.32436143389212
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 79 Av & NW 2 St",
+                "latLon": [
+                    25.77180915875482,
+                    -80.32430775514422
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 79 Av & NW 2 St",
+                "latLon": [
+                    25.771496041557164,
+                    -80.32410524022886
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "NW 79 Av & W Flagler St",
+                "latLon": [
+                    25.77049309051018,
+                    -80.32437881519922
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "W Flagler St & NW 82 Av",
+                "latLon": [
+                    25.769865066246123,
+                    -80.32870283235503
+                ],
+                "routes": [
+                    {
+                        "label": "11",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=11"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "W Flagler St & SW 82 Av",
+                "latLon": [
+                    25.76960803108079,
+                    -80.32842982128743
+                ],
+                "routes": [
+                    {
+                        "label": "11",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=11"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    }
+                ]
+            },
+            {
+                "name": "W Flagler St & NW 82 Av",
+                "latLon": [
+                    25.769939080441635,
+                    -80.324935617031
+                ],
+                "routes": [
+                    {
+                        "label": "11",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=11"
+                    },
+                    {
+                        "label": "87",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=87"
+                    },
+                    {
+                        "label": "211",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=211"
+                    }
+                ]
+            },
+            {
+                "name": "W Flagler St & NW 82 Av",
+                "latLon": [
+                    25.77002836339309,
+                    -80.31770373835136
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "11",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=11"
+                    }
+                ]
+            },
+            {
+                "name": "W Flagler St & # 7400",
+                "latLon": [
+                    25.769876793426686,
+                    -80.31652286983312
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "11",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=11"
+                    }
+                ]
+            },
+            {
+                "name": "W Flagler St & Grand Canal Dr",
+                "latLon": [
+                    25.769949578627656,
+                    -80.31492242425132
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "11",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=11"
+                    }
+                ]
+            },
+            {
+                "name": "W Flagler St & NW 73 Ct",
+                "latLon": [
+                    25.770170206289947,
+                    -80.31461250289651
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "11",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=11"
+                    }
+                ]
+            },
+            {
+                "name": "W Flagler St & NW 72 Av",
+                "latLon": [
+                    25.770254128292084,
+                    -80.31310748052947
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "11",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=11"
+                    }
+                ]
+            },
+            {
+                "name": "W Flagler St & NW 72 Av",
+                "latLon": [
+                    25.772509973671802,
+                    -80.31235505972151
+                ],
+                "routes": [
+                    {
+                        "label": "7",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=7"
+                    },
+                    {
+                        "label": "73",
+                        "bg": "#027abb",
+                        "url": "https://www.miamidade.gov/transportation-publicworks/routes_detail.asp?route=73"
+                    }
+                ]
+            }
+        ]
+    }
+}

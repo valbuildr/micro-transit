@@ -1,0 +1,485 @@
+{
+    "name": "Fairfax",
+    "url": "https://www.microcenter.com/site/stores/Fairfax.aspx",
+    "latLon": [
+        38.86899058685542,
+        -77.26150272883578
+    ],
+    "address": "3089 Nutley St, Fairfax, VA 22031",
+    "stops": {
+        "local": [
+            {
+                "name": "Nutley St at Hermosa Dr",
+                "latLon": [
+                    38.87404764370139,
+                    -77.26403689795686
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F61",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Nutley St & Hermosa Dr",
+                "latLon": [
+                    38.873053103415415,
+                    -77.26331236185382
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F61",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Nutley St & Lee Hwy",
+                "latLon": [
+                    38.871262004259634,
+                    -77.26291047258036
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F61",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Nutley St & Lee Hwy",
+                "latLon": [
+                    38.870866574072885,
+                    -77.2631922333597
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F61",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Nutley St at Barrick St (NB)",
+                "latLon": [
+                    38.867095690938115,
+                    -77.26230110375269
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F61",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Mainstone Dr",
+                "latLon": [
+                    38.872565924222236,
+                    -77.25195153003679
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Espana Ct",
+                "latLon": [
+                    38.87269009024404,
+                    -77.2526979203259
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Hunter Rd",
+                "latLon": [
+                    38.87260565737385,
+                    -77.2556260669395
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Ellenwood Dr",
+                "latLon": [
+                    38.87248645785548,
+                    -77.25565158455622
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Braxton Wood Ct",
+                "latLon": [
+                    38.872536124344755,
+                    -77.25783972024067
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Braxton Wood Ct",
+                "latLon": [
+                    38.87245665794363,
+                    -77.25790351428249
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Nutley St",
+                "latLon": [
+                    38.87246983494455,
+                    -77.26074604311263
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Nutley St",
+                "latLon": [
+                    38.872340701877214,
+                    -77.26070776668755
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Vaden Dr & Lee Hwy",
+                "latLon": [
+                    38.8707105205144,
+                    -77.26997595170448
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Circle Woods Dr",
+                "latLon": [
+                    38.86894542293843,
+                    -77.27097138708639
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Hwy & Circle Woods Dr",
+                "latLon": [
+                    38.86878311291788,
+                    -77.27083067108994
+                ],
+                "routes": [
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Fairfax Bl & Pickett Rd",
+                "latLon": [
+                    38.86478949916361,
+                    -77.27158661428946
+                ],
+                "routes": [
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Arlington Bl & Circle Tower Apt",
+                "latLon": [
+                    38.865097464175115,
+                    -77.26907312899576
+                ],
+                "routes": [
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Pickett Rd & Arlington Bl",
+                "latLon": [
+                    38.865097464175115,
+                    -77.26907312899576
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Pickett Rd & Arlington Bl",
+                "latLon": [
+                    38.86429774576251,
+                    -77.269953486773
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F50",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Arlington Bl & Circle Tower Apt",
+                "latLon": [
+                    38.86487890848153,
+                    -77.26808432130085
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Arlington Blvd at Stonehurst Dr (EB)",
+                "latLon": [
+                    38.86493573619711,
+                    -77.26554019970027
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Arlington Blvd & Stonehurst Dr",
+                "latLon": [
+                    38.86514435738131,
+                    -77.26499157094074
+                ],
+                "routes": [
+                    {
+                        "label": "F24",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Arlington Bl & #9211",
+                "latLon": [
+                    38.864945670551855,
+                    -77.26381776054833
+                ],
+                "routes": [
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Arlington Bl & Covington St",
+                "latLon": [
+                    38.86503433415598,
+                    -77.25895495418216
+                ],
+                "routes": [
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F61",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Arlington Bl & Covington St",
+                "latLon": [
+                    38.86521666933113,
+                    -77.25786497235008
+                ],
+                "routes": [
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F61",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Arlington Bl & Barkley Gate Ln",
+                "latLon": [
+                    38.865391871139394,
+                    -77.25222790711761
+                ],
+                "routes": [
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F61",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            },
+            {
+                "name": "Arlington Bl & Barkley Gate Ln",
+                "latLon": [
+                    38.8652031193229,
+                    -77.25153893146613
+                ],
+                "routes": [
+                    {
+                        "label": "F60",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    },
+                    {
+                        "label": "F61",
+                        "bg": "#ef3122",
+                        "url": "https://wmata.com/schedules/timetables/"
+                    }
+                ]
+            }
+        ]
+    }
+}

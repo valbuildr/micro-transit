@@ -1,0 +1,125 @@
+{
+    "name": "Indianapolis",
+    "url": "https://www.microcenter.com/site/stores/Indianapolis.aspx",
+    "latLon": [
+        39.91317562478063,
+        -86.07098732144004
+    ],
+    "address": "5702 E 86th St, Indianapolis, IN 46250",
+    "stops": {
+        "local": [
+            {
+                "name": "JC Penney & Castleton Square",
+                "latLon": [
+                    39.907517936767846,
+                    -86.06799663680141
+                ],
+                "routes": [
+                    {
+                        "label": "82",
+                        "bg": "#49ac48",
+                        "url": "https://www.indygo.net/route/82-east-82nd-st/"
+                    }
+                ]
+            },
+            {
+                "name": "Castle Corner Dr - 8413 N",
+                "latLon": [
+                    39.90879624676566,
+                    -86.07129058433895
+                ],
+                "routes": [
+                    {
+                        "label": "82",
+                        "bg": "#49ac48",
+                        "url": "https://www.indygo.net/route/82-east-82nd-st/"
+                    }
+                ]
+            },
+            {
+                "name": "Castleton Corner Dr & 8330 N",
+                "latLon": [
+                    39.90879624676566,
+                    -86.0714233327843
+                ],
+                "routes": [
+                    {
+                        "label": "82",
+                        "bg": "#49ac48",
+                        "url": "https://www.indygo.net/route/82-east-82nd-st/"
+                    }
+                ]
+            },
+            {
+                "name": "Castleton Corner Dr & 86th St",
+                "latLon": [
+                    39.91063509629659,
+                    -86.07259464261838
+                ],
+                "routes": [
+                    {
+                        "label": "82",
+                        "bg": "#49ac48",
+                        "url": "https://www.indygo.net/route/82-east-82nd-st/"
+                    }
+                ]
+            },
+            {
+                "name": "Castleton Corner Dr & 85th St",
+                "latLon": [
+                    39.911060360655696,
+                    -86.07261806881425
+                ],
+                "routes": [
+                    {
+                        "label": "82",
+                        "bg": "#49ac48",
+                        "url": "https://www.indygo.net/route/82-east-82nd-st/"
+                    }
+                ]
+            },
+            {
+                "name": "86th St & Allisonville Rd",
+                "latLon": [
+                    39.912252284748405,
+                    -86.07389089223788
+                ],
+                "routes": [
+                    {
+                        "label": "82",
+                        "bg": "#49ac48",
+                        "url": "https://www.indygo.net/route/82-east-82nd-st/"
+                    }
+                ]
+            },
+            {
+                "name": "Allisonville Rd & Kelly Ln",
+                "latLon": [
+                    39.90690029027576,
+                    -86.07799643098242
+                ],
+                "routes": [
+                    {
+                        "label": "82",
+                        "bg": "#49ac48",
+                        "url": "https://www.indygo.net/route/82-east-82nd-st/"
+                    }
+                ]
+            },
+            {
+                "name": "Allisonville Rd & Shopping Center Dr",
+                "latLon": [
+                    39.90662774546083,
+                    -86.07782073451065
+                ],
+                "routes": [
+                    {
+                        "label": "82",
+                        "bg": "#49ac48",
+                        "url": "https://www.indygo.net/route/82-east-82nd-st/"
+                    }
+                ]
+            }
+        ]
+    }
+}

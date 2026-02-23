@@ -1,0 +1,279 @@
+{
+    "name": "Westmont",
+    "url": "https://www.microcenter.com/site/stores/Westmont.aspx",
+    "latLon": [
+        41.811205013244084,
+        -87.97264518650664
+    ],
+    "address": "80 E Ogden Ave, Westmont, IL 60559",
+    "stops": {
+        "local": [
+            {
+                "name": "Cass/Indian Trail",
+                "latLon": [
+                    41.81850838251269,
+                    -87.97640572663215
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/Indian Trail",
+                "latLon": [
+                    41.81822582000819,
+                    -87.9761935445496
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/39th",
+                "latLon": [
+                    41.81740831102245,
+                    -87.97631777007017
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/39th",
+                "latLon": [
+                    41.817151956983125,
+                    -87.97608845511762
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/Chestnut",
+                "latLon": [
+                    41.81642173074014,
+                    -87.97626565302784
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/Chestnut",
+                "latLon": [
+                    41.81616537275174,
+                    -87.97606239659262
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/40th",
+                "latLon": [
+                    41.81509235449661,
+                    -87.97620526112858
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/40th",
+                "latLon": [
+                    41.81484792027487,
+                    -87.97595538170204
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/Plaza/41st",
+                "latLon": [
+                    41.81284585246577,
+                    -87.97590072056792
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/41st/Plaza",
+                "latLon": [
+                    41.81247336783423,
+                    -87.97608032140575
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/Pace Sign/Jewel",
+                "latLon": [
+                    41.81089610418495,
+                    -87.97584605943227
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/Ogden",
+                "latLon": [
+                    41.81031407828057,
+                    -87.97598661660972
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/Ogden",
+                "latLon": [
+                    41.80989501635493,
+                    -87.9757992070398
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/E. Traube",
+                "latLon": [
+                    41.80776441355537,
+                    -87.97588607275706
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/E. Traube",
+                "latLon": [
+                    41.80743349156703,
+                    -87.97572853870474
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/W. Traube",
+                "latLon": [
+                    41.80679299254018,
+                    -87.97580014509217
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/W. Traube",
+                "latLon": [
+                    41.806483415715114,
+                    -87.9756855748723
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/Melrose",
+                "latLon": [
+                    41.80528779460168,
+                    -87.97578582381944
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            },
+            {
+                "name": "Cass/Melrose",
+                "latLon": [
+                    41.80501023651399,
+                    -87.9755423621022
+                ],
+                "routes": [
+                    {
+                        "label": "715",
+                        "bg": "#00539f",
+                        "url": "https://www.pacebus.com/route/715"
+                    }
+                ]
+            }
+        ]
+    }
+}
