@@ -644,5 +644,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 84,
+        "transitScore": 64,
+        "bikeScore": 98,
+        "url": "https://www.walkscore.com/score/730-memorial-dr-cambridge-ma-02139"
     }
 }

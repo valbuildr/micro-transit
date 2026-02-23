@@ -6,5 +6,10 @@
         -84.43070161669098
     ],
     "address": "11755 Mosteller Rd, Sharonville, OH 45241",
-    "stops": {}
+    "stops": {},
+    "walkScore": {
+        "walkScore": 20,
+        "bikeScore": 31,
+        "url": "https://www.walkscore.com/score/11755-mosteller-rd-sharonville-oh-45241"
+    }
 }

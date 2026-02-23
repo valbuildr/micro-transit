@@ -219,5 +219,10 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 56,
+        "bikeScore": 30,
+        "url": "https://www.walkscore.com/score/550-e-lancaster-ave-wayne-pa-19087"
     }
 }

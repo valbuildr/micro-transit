@@ -249,5 +249,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 61,
+        "transitScore": 38,
+        "bikeScore": 71,
+        "url": "https://www.walkscore.com/score/1100-edinger-ave-tustin-ca-92780"
     }
 }

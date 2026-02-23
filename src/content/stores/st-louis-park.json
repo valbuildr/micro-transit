@@ -448,5 +448,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 54,
+        "transitScore": 40,
+        "bikeScore": 78,
+        "url": "https://www.walkscore.com/score/3710-minnesota-100-st-louis-park-mn-554167"
     }
 }

@@ -394,5 +394,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 75,
+        "transitScore": 46,
+        "bikeScore": 49,
+        "url": "https://www.walkscore.com/score/7795-w-flagler-st-miami-fl-33144"
     }
 }

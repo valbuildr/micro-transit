@@ -107,5 +107,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 67,
+        "transitScore": 34,
+        "bikeScore": 49,
+        "url": "https://www.walkscore.com/score/747-bethel-rd-columbus-oh-43214"
     }
 }

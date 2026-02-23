@@ -173,6 +173,40 @@ const localStops = store.data.stops.local
     </Leaflet>
   </div>
 
+  {
+    store.data.walkScore ? (
+      <div class="pb-2">
+        <h2 class="font-special text-3xl font-bold pb-1">Walk Score</h2>
+        <p class="pb-2">
+          Data provided by{" "}
+          <a
+            href={store.data.walkScore.url}
+            class="text-blue-700 dark:text-blue-400 hover:underline"
+            target="_blank"
+          >
+            walkscore.com
+          </a>
+        </p>
+
+        {store.data.walkScore?.walkScore ? (
+          <p>
+            <b>Walk Score:</b> {store.data.walkScore?.walkScore}
+          </p>
+        ) : null}
+        {store.data.walkScore?.transitScore ? (
+          <p>
+            <b>Transit Score:</b> {store.data.walkScore?.transitScore}
+          </p>
+        ) : null}
+        {store.data.walkScore?.bikeScore ? (
+          <p>
+            <b>Bike Score:</b> {store.data.walkScore?.bikeScore}
+          </p>
+        ) : null}
+      </div>
+    ) : null
+  }
+
   <div class="pb-2">
     <h2 class="font-special text-3xl font-bold pb-1">
       Nearby Rapid Transit Stops

@@ -733,5 +733,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 72,
+        "transitScore": 61,
+        "bikeScore": 94,
+        "url": "https://www.walkscore.com/score/2645-n-elston-ave-chicago-il-60647"
     }
 }

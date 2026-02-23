@@ -363,5 +363,10 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 62,
+        "bikeScore": 45,
+        "url": "https://www.walkscore.com/score/32800-concord-dr-madison-heights-mi-48071"
     }
 }

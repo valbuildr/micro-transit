@@ -238,5 +238,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 71,
+        "transitScore": 33,
+        "bikeScore": 50,
+        "url": "https://www.walkscore.com/score/1349-som-center-rd-mayfield-heights-oh-44124"
     }
 }

@@ -553,5 +553,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 89,
+        "transitScore": 97,
+        "bikeScore": 63,
+        "url": "https://www.walkscore.com/score/850-3rd-ave-brooklyn-ny-11232"
     }
 }

@@ -177,5 +177,10 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 79,
+        "bikeScore": 46,
+        "url": "https://www.walkscore.com/score/1275-powers-ferry-rd-marietta-ga-30067"
     }
 }

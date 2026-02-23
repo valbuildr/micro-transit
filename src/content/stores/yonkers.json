@@ -618,5 +618,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 81,
+        "transitScore": 50,
+        "bikeScore": 44,
+        "url": "https://www.walkscore.com/score/750-central-park-ave-yonkers-ny-10704"
     }
 }

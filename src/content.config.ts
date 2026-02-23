@@ -32,6 +32,12 @@ const stores = defineCollection({
                 }))
             })).optional(),
         }),
+        walkScore: z.object({
+            walkScore: z.number().optional(),
+            transitScore: z.number().optional(),
+            bikeScore: z.number().optional(),
+            url: z.string(),
+        }).optional(),
         debug: z.boolean().optional(),
     }),
 });

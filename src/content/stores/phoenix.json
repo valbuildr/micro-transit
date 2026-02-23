@@ -247,5 +247,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 79,
+        "transitScore": 40,
+        "bikeScore": 87,
+        "url": "https://www.walkscore.com/score/4531-e-thomas-rd-phoenix-az-85018"
     }
 }

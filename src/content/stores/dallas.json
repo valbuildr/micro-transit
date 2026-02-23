@@ -245,5 +245,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 62,
+        "transitScore": 45,
+        "bikeScore": 62,
+        "url": "https://www.walkscore.com/score/13929-n-central-expy-dallas-tx-75243"
     }
 }

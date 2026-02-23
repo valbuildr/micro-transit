@@ -1094,5 +1094,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 79,
+        "transitScore": 63,
+        "bikeScore": 69,
+        "url": "https://www.walkscore.com/score/1776-e-jefferson-st-rockville-md-20852"
     }
 }

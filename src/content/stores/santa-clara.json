@@ -165,5 +165,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 75,
+        "transitScore": 39,
+        "bikeScore": 74,
+        "url": "https://www.walkscore.com/score/5201-stevens-creek-blvd-santa-clara-ca-95051"
     }
 }

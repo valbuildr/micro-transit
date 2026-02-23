@@ -121,5 +121,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 62,
+        "transitScore": 29,
+        "bikeScore": 61,
+        "url": "https://www.walkscore.com/score/5702-e-86th-st-indianapolis-in-46250"
     }
 }

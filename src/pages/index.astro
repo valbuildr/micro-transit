@@ -33,7 +33,7 @@ const stores = await getCollection("stores");
             astroIconName="store"
           >
             <Popup
-              content={`<b>${store.data.name}</b><br/>${store.data.address}<br/><br/>${store.data.stops.rapid?.length ?? 0} rapid stops nearby<br/>${store.data.stops.local?.length ?? 0} local stops nearby<br/><br/><a href="/store/${store.id}">More Info</a>`}
+              content={`<b>${store.data.name}</b><br/>${store.data.address}<br/><br/>Rapid Stops Nearby: ${store.data.stops.rapid?.length ?? 0}<br/>Local Stops Nearby: ${store.data.stops.local?.length ?? 0}<br/><br/>${store.data.walkScore?.walkScore ? `Walk Score: ${store.data.walkScore?.walkScore}<br/>` : ""}${store.data.walkScore?.transitScore ? `Transit Score: ${store.data.walkScore?.transitScore}<br/>` : ""}${store.data.walkScore?.bikeScore ? `Bike Score: ${store.data.walkScore?.bikeScore}<br/>` : ""}${store.data.walkScore ? `<small>Data provided by <a href="${store.data.walkScore.url}">walkscore.com</a></small><br/><br/>` : ""}<a href="/store/${store.id}">More Info</a>`}
             />
           </Marker>
         ))
@@ -51,9 +51,33 @@ const stores = await getCollection("stores");
               <p>{store.data.address}</p>
 
               <p class="pt-2">
-                {store.data.stops.rapid?.length ?? 0} rapid stops nearby
+                Rapid Stops Nearby: {store.data.stops.rapid?.length ?? 0}
               </p>
-              <p>{store.data.stops.local?.length ?? 0} local stops nearby</p>
+              <p>Local Stops Nearby: {store.data.stops.local?.length ?? 0}</p>
+
+              <div class="pt-2">
+                {store.data.walkScore?.walkScore ? (
+                  <p>Walk Score: {store.data.walkScore?.walkScore}</p>
+                ) : null}
+                {store.data.walkScore?.transitScore ? (
+                  <p>Transit Score: {store.data.walkScore?.transitScore}</p>
+                ) : null}
+                {store.data.walkScore?.bikeScore ? (
+                  <p>Bike Score: {store.data.walkScore?.bikeScore}</p>
+                ) : null}
+                {store.data.walkScore ? (
+                  <p class="text-sm italic">
+                    Walk Score data provided by{" "}
+                    <a
+                      href={store.data.walkScore.url}
+                      class="text-blue-700 dark:text-blue-400 hover:underline"
+                      target="_blank"
+                    >
+                      walkscore.com
+                    </a>
+                  </p>
+                ) : null}
+              </div>
 
               <p class="pt-2">
                 <a

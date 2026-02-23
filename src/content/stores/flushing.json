@@ -713,5 +713,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 89,
+        "transitScore": 71,
+        "bikeScore": 75,
+        "url": "https://www.walkscore.com/score/71.dash.43-kissena-blvd-queens-ny-11367"
     }
 }

@@ -213,5 +213,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 69,
+        "transitScore": 23,
+        "bikeScore": 65,
+        "url": "https://www.walkscore.com/score/9294-metcalf-ave-overland-park-ks-66212"
     }
 }

@@ -6,5 +6,11 @@
         -74.13329618650666
     ],
     "address": "263 McLean Blvd, Paterson, NJ 07504",
-    "stops": {}
+    "stops": {},
+    "walkScore": {
+        "walkScore": 51,
+        "transitScore": 43,
+        "bikeScore": 40,
+        "url": "https://www.walkscore.com/score/263-mclean-blvd-paterson-nj-07504"
+    }
 }

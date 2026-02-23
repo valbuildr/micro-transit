@@ -6,5 +6,11 @@
         -73.58581027116445
     ],
     "address": "655 Merrick Ave, Westbury, NY 11590",
-    "stops": {}
+    "stops": {},
+    "walkScore": {
+        "walkScore": 45,
+        "transitScore": 40,
+        "bikeScore": 58,
+        "url": "https://www.walkscore.com/score/655-merrick-ave-westbury-ny-11590"
+    }
 }

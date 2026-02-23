@@ -6,5 +6,11 @@
         -76.54555118650666
     ],
     "address": "1957 E Joppa Rd, Parkville, MD 21234",
-    "stops": {}
+    "stops": {},
+    "walkScore": {
+        "walkScore": 74,
+        "transitScore": 17,
+        "bikeScore": 42,
+        "url": "https://www.walkscore.com/score/1957-e-joppa-rd-parkville-md-21234"
+    }
 }

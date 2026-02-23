@@ -481,5 +481,10 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 72,
+        "bikeScore": 74,
+        "url": "https://www.walkscore.com/score/3089-nutley-st-fairfax-va-22031"
     }
 }

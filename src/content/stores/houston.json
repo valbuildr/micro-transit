@@ -600,5 +600,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 65,
+        "transitScore": 48,
+        "bikeScore": 46,
+        "url": "https://www.walkscore.com/score/5305-s-rice-ave-houston-tx-77081"
     }
 }

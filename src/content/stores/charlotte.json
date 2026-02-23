@@ -305,5 +305,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 55,
+        "transitScore": 47,
+        "bikeScore": 53,
+        "url": "https://www.walkscore.com/score/4744-s-blvd-charlotte-nc-28217"
     }
 }

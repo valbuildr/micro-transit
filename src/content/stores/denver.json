@@ -294,5 +294,11 @@
                 ]
             }
         ]
+    },
+    "walkScore": {
+        "walkScore": 64,
+        "transitScore": 38,
+        "bikeScore": 65,
+        "url": "https://www.walkscore.com/score/8000-e-quincy-ave-denver-co-80237"
     }
 }
